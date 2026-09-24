@@ -1,0 +1,7292 @@
+{
+  "users": {
+    "0x8605192b352774dc08d591d130d326d06308225c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0129855575582805
+      },
+      "last_block": 89590008,
+      "last_seen": 1783090008.138343,
+      "is_at_risk": false,
+      "last_check_block": 89590008
+    },
+    "0xce120397e293362a6b85e12a9b0a04247b2e972d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3230211937418412
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6089833,
+      "is_at_risk": false,
+      "last_check_block": 88737815
+    },
+    "0x8ddb3ad59be1f8679362f600ebf04f03c1fd1c88": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5529112884932572
+      },
+      "last_block": 88775182,
+      "last_seen": 1781867769.5212476,
+      "is_at_risk": false,
+      "last_check_block": 88775182
+    },
+    "0x314d611aef8787851ea56292bdd66b7f0cbc0604": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.107353009584107
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.3287718,
+      "is_at_risk": false,
+      "last_check_block": 88775971
+    },
+    "0x129bff1abab8dff1bd2879db67ce04c79756dc6f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.405777612134297
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706527.932293,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8806570c435d071a0f719f45034448658f62f2df": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.981961207431084
+      },
+      "last_block": 89514483,
+      "last_seen": 1781797608.7336683,
+      "is_at_risk": false,
+      "last_check_block": 88728408
+    },
+    "0x56b1b722705edb99b506bcb7ce43ccc1cd852117": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3303262985745201
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.2028956,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x50ee3a158ab95690c20a3d4ece0e4f020311e6b5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 7.413358925035113
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706527.9323106,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe0c38f317994c31b5686d0133dfc2c77ea685094": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.139029741354418
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7753623,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb0e0dc2fe7ba5d1111dba6dfcaf86b3b10c75ffa": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 70515458.84826484
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706527.9323184,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x33fa8f94fba0b42de5051bc1733c9e7c2eaf0875": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.079637058495223
+      },
+      "last_block": 89590113,
+      "last_seen": 1783085129.1099155,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0xb7c911858300175486df499be214d7d08c17155e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2989603961916303
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905164,
+      "is_at_risk": false,
+      "last_check_block": 88733846
+    },
+    "0x668b203f71c8835548821617572029ebe7438b36": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.146251835798736
+      },
+      "last_block": 88767287,
+      "last_seen": 1781706528.046131,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x93e987560826ab919738e01e0f241103588d8857": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0461231403238003
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706528.0461338,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4b25c95d8b7c57ce6b4f0832fa3094f9abc13ac6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3737808769238873
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706528.0461364,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x21cfe08c7ddb08a8e5fa04baac8b2a1457696731": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0635516487290957
+      },
+      "last_block": 89590113,
+      "last_seen": 1783081290.3498487,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x19997fe22de68fd3db2fb792cbf2cf5107afe271": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.097384073309214
+      },
+      "last_block": 89590114,
+      "last_seen": 1781769941.5641422,
+      "is_at_risk": true,
+      "last_check_block": 89590114
+    },
+    "0x756dd1333ddc7dafbbce6916f90d66e2bbab887d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.127739598845717
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904706,
+      "is_at_risk": false,
+      "last_check_block": 88775980
+    },
+    "0x2022a5600f854cc3218e636239f4dfce9e5357b5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 6720.5465709975315
+      },
+      "last_block": 89514483,
+      "last_seen": 1781801261.1293561,
+      "is_at_risk": false,
+      "last_check_block": 88730843
+    },
+    "0xdc855da75843938d5b770de3a09bb9f9d8f4fe5a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1583176896337413
+      },
+      "last_block": 88767287,
+      "last_seen": 1781706532.6302557,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfbe1cd06f451268cd3eaa096eca537688d9f9d6d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.075941451237643
+      },
+      "last_block": 89590114,
+      "last_seen": 1781706532.630262,
+      "is_at_risk": true,
+      "last_check_block": 89590114
+    },
+    "0xa1bd7936972f0636ed00355e99e693a689abbcc5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.824180778781929
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706532.630267,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5cf0cda19996c7740473882ee72bed99e39834f7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.4863034424602493
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502026,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x44115800144edcf07044326ebfe2ec4e6fd611bb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1530605333665522
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274661,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0xa0ba77fed1a459b5858305605fcc83321753c6e8": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.124588612351125
+      },
+      "last_block": 89514483,
+      "last_seen": 1781864349.590998,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0xed93fec73ec0c21554dfa8e22c59af191592da04": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4345061683041225
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706532.6302803,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc92df12782fd65d390c10cc21dd005a614c61b94": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.193695140048314
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.77537,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa8c628c1d57d5b0c1cab6eabfc9e7bafa7976816": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1201824147836623
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.3287752,
+      "is_at_risk": false,
+      "last_check_block": 88775971
+    },
+    "0x1b17f90e573aeacb72454c2ff14f133a3a01c602": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2091591705989089
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904575,
+      "is_at_risk": false,
+      "last_check_block": 88775971
+    },
+    "0x7ea85c850b369022f47bdf16e3951304d7df7fe9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3386196093471145
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9314158,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x04903c4c148dd276555df99fb16fbf1708a43a19": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1364087261547207
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7056415,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xce3beef7dbbbf35180634d2c2e2871c1572f4f93": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0902113050960633
+      },
+      "last_block": 89590113,
+      "last_seen": 1781706536.9314232,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0xd5a5b277f60b1360f62e263cce413b82585f7035": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.009757721632877
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.931427,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xba910716fd4b6b4447aea613993898eeb63844ad": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 10.663443694240367
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9314299,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb987ae8b613187de49fe7af2b9280edb8f551588": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5084781646531484
+      },
+      "last_block": 89514483,
+      "last_seen": 1781862583.5936062,
+      "is_at_risk": false,
+      "last_check_block": 88771725
+    },
+    "0xcc3a2b2d975ee7fe009fd9a89f564868cb19d16f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5735358791636291
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9314334,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xeb14a834c98947e90df36ef7839965d2db7d37bf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6242584306675907
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872747,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3df95021e8262ae0938af43d7b38a18e18ce1e93": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 29.377387546915404
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975265.365739,
+      "is_at_risk": false,
+      "last_check_block": 88734269
+    },
+    "0x15cc645652a7414a2496b15ca5f426ed5e602def": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3381094207115116
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502078,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x6b20348e61456a210dd0c8e7857ed108e5dc7c44": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3050279617875131
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9314415,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x19b46573a7f2e98867d0719d863255fb2fd32b44": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5191818763844314
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3501816,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xaae5ae02bb242f11ab3bcdee8d178c7294f9b6d1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4649475478616625
+      },
+      "last_block": 89514483,
+      "last_seen": 1781797335.0238245,
+      "is_at_risk": false,
+      "last_check_block": 88728226
+    },
+    "0x4fdd19364971821f2e421723dd9f0cde2e3693b6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.111758901079768
+      },
+      "last_block": 89586503,
+      "last_seen": 1783084751.0799227,
+      "is_at_risk": false,
+      "last_check_block": 89586503
+    },
+    "0xc4c352c5713531ffa189bdc2ed6d72d5c14ac091": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 8.873170461317496
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9315119,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2fe79f33d373565feeac730d011ae758b0b367be": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.702001453576959
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502266,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x42b827173a4a938e95414d02d5035e4da71332ca": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.125529877887526
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502245,
+      "is_at_risk": false,
+      "last_check_block": 88773783
+    },
+    "0xebfdee3355189098e1d08386f2ec87c853222335": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2999617502042642
+      },
+      "last_block": 89513309,
+      "last_seen": 1782975271.6090589,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9f25248e8465a4a5106948615c6db2ed1e1b9052": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4691428268148996
+      },
+      "last_block": 89514483,
+      "last_seen": 1781857845.4544413,
+      "is_at_risk": false,
+      "last_check_block": 88768566
+    },
+    "0xf40ba069c1d87d96cbe425584ef73915e4d0ec19": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88667679,
+      "last_seen": 1781706536.9315207,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb2cd78ef68894c030b9bfd348760cfe1e540850c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4499838332036619
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609055,
+      "is_at_risk": false,
+      "last_check_block": 88736691
+    },
+    "0x7c6733d04d85af35aefeeb45c718afe6edec6f67": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.276855056858142
+      },
+      "last_block": 89514483,
+      "last_seen": 1781865093.154973,
+      "is_at_risk": false,
+      "last_check_block": 88773385
+    },
+    "0xb16fae9b7bd3af2f1e09cbd762460fa610aac449": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2886146711655573
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706536.9315264,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdb57fdf5fd24a9d0e1ea94552eb2c7bdcb28fa27": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1942701941130396
+      },
+      "last_block": 88720984,
+      "last_seen": 1781786472.9000676,
+      "is_at_risk": false,
+      "last_check_block": 88720984
+    },
+    "0xd92098af7123b0ff00ac8317630eb0b411791882": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2930214602497156
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7056448,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa8b2c0ee8fcaf7f1c00c8c05a202f59479dff085": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9671175889362698
+      },
+      "last_block": 89514483,
+      "last_seen": 1781788574.1803873,
+      "is_at_risk": false,
+      "last_check_block": 88722385
+    },
+    "0xb3bc736b525fdb1fa5593b55af1501be2bae2b85": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3898930064564718
+      },
+      "last_block": 89514483,
+      "last_seen": 1781790087.5649302,
+      "is_at_risk": false,
+      "last_check_block": 88723394
+    },
+    "0x4badec0b1ea0d11557a15e0b04b2d8f8b51aad1e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1706047652604055
+      },
+      "last_block": 88767642,
+      "last_seen": 1781856458.9223351,
+      "is_at_risk": false,
+      "last_check_block": 88767642
+    },
+    "0x4faaab50647753c0733159c9bddddde57f9df1f7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1136196711480297
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502538,
+      "is_at_risk": false,
+      "last_check_block": 88730496
+    },
+    "0xf2ff84d45783bd64913903516fa44b419f266998": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1265537064110103
+      },
+      "last_block": 89513309,
+      "last_seen": 1782975271.6090605,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc58d5d7af58c8aa36737bd2b4878fa03e47050c1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3158687891947216
+      },
+      "last_block": 89514483,
+      "last_seen": 1781706539.0584817,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x56e8e6e703cb0928985dc3a40eb68c583214b865": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 8.33748594517525
+      },
+      "last_block": 89514483,
+      "last_seen": 1781797655.292076,
+      "is_at_risk": false,
+      "last_check_block": 88728439
+    },
+    "0xb6ba8e024151451df26fbf2cbeaca2524b5f2941": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6667292887410448
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769939.478697,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x41393aeb82cada42dc5afec2f122ada3d0139c12": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2467393368480855
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.5641139,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2db635a9f1c92373d4c98fbc44b4b96da6718d0d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3257309810293785
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.5641172,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x771d0edfab83f97f187718590c095bea37ca1fe3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2347731485573483
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.5641248,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3b6aee126473ecf13b83b530a518a649eae95644": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769941.56413,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd26cb8bd69adb468e35561b3401927bd828f77f3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5718025251315868
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.564135,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xac67069a42512c33e51455487d496b472b7dedd5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.165857486719216
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609036,
+      "is_at_risk": false,
+      "last_check_block": 88730194
+    },
+    "0xa354212f4dac8f5a740cd9c692e52f5c622d258c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769941.5641403,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x77201fa40284f830c9a105d3e5056f1e3c17c5c7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.290785728222723
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.619163,
+      "is_at_risk": false,
+      "last_check_block": 88775524
+    },
+    "0xbc7a2346a146188bf0049b3ffe4f1fc6f9a9d276": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.671429,
+      "is_at_risk": false,
+      "last_check_block": 88736710
+    },
+    "0x259c38afd35b6d0c5e716188aa809b33b4825471": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88667679,
+      "last_seen": 1781706539.0585222,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xda26524869d92d18d756f29127a8c3d0b7fa2c53": {
+      "protocols": [
+        "COMPOUND_V3",
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.97706968323785
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274597,
+      "is_at_risk": false,
+      "last_check_block": 88731862
+    },
+    "0x65d914360376d2e7f6c6ff92da211be3ff33743c": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769954.056185,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe7cd2fa44cce16e70867338f7b9fd60ad3b9d4b5": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769954.0561867,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xaa8070363a48e6c245fab811054bbf2b0b2853d7": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769954.0563514,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x175ebce4ff7d3846475bd05d57e0a182a5771f5c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89590014,
+      "last_seen": 1783090017.6782088,
+      "is_at_risk": false,
+      "last_check_block": 89590014
+    },
+    "0x0b8c897b74f528c328880adbbe7d59df331b2acb": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88667810,
+      "last_seen": 1781706705.3153937,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc615eb269d983da4b213035b3bed15aa2cbe6203": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88668238,
+      "last_seen": 1781707347.6738598,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb2c50a5ec23b762d54f4a56d61307050be71779c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 18.455012595664396
+      },
+      "last_block": 88767287,
+      "last_seen": 1781706782.3351293,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x76881ce6afdd01cbb5e61d3f0510404b08b66d87": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5722969703921812
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.56415,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd629abe488911a738c1d59854964798865e3bcdb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88725466,
+      "last_seen": 1781793195.6681597,
+      "is_at_risk": false,
+      "last_check_block": 88725466
+    },
+    "0x0c5f5e4b1e7f201b262fcc2ad94b09da01587db4": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88721314,
+      "last_seen": 1781786967.6411278,
+      "is_at_risk": false,
+      "last_check_block": 88721314
+    },
+    "0x71515519ebef9252eca321114c2ba63fce51c0e1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88712340,
+      "last_seen": 1781773506.83059,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x55067aa51ca08e042eb87e6c7ebcae18fb3020ff": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88668715,
+      "last_seen": 1781708063.1585667,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfe9cbafb1e5a98ed203f27a02621fba8e464b638": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3574415053338265
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769941.5641544,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd4ec2bcf28c948259624f592a13ae1efb76f877c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88668885,
+      "last_seen": 1781708317.6348941,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe189e43882be0cfb0014cbbe4d267f7bf8b6559d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.356791710276551
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191473,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5b43dbaf50144f5ee09b5fea8a8a3cbe88c9f4cd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89588601,
+      "last_seen": 1783087897.4967566,
+      "is_at_risk": false,
+      "last_check_block": 89588601
+    },
+    "0x572372831a9d6b2e3ee8fa284505599e6125fea9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0729766188548933
+      },
+      "last_block": 89514483,
+      "last_seen": 1781846315.1807654,
+      "is_at_risk": true,
+      "last_check_block": 89590114
+    },
+    "0x625d1200e5869d986ac959572e60869e2a64c43a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88669269,
+      "last_seen": 1781708894.404006,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe3ec8563551f049da5fc973472a7fb04cb940d08": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769941.5641587,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd32c4a95d82e554380f6a7db569532721e36a638": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88669253,
+      "last_seen": 1781708870.2597494,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x66e8a78cb77050fd22546feea40cae6ade50d2a2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.176421916229802
+      },
+      "last_block": 89514483,
+      "last_seen": 1781774142.770176,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc5f35ebce3ea365dbffc6a5a27819b660d24716d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8105633127277183
+      },
+      "last_block": 89514483,
+      "last_seen": 1781807601.6260853,
+      "is_at_risk": false,
+      "last_check_block": 88735070
+    },
+    "0xf05c7c4b9b86f60b94658c61585e25026ddd2e02": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88669749,
+      "last_seen": 1781709613.651934,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x140e08bdf397168d6c8d865655df0b1f5d62e21e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88673199,
+      "last_seen": 1781714789.327222,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2e22acf61a3754be844af406e2c263a8c1f6b2d5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88670274,
+      "last_seen": 1781710401.6486065,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x200b61482ebf38ed1174eaa3261fb9c36bab5de7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88670416,
+      "last_seen": 1781710615.004708,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1efeb5130c760e059611231879444dbaa47ded21": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 179.051238067418
+      },
+      "last_block": 88767287,
+      "last_seen": 1781790051.6118739,
+      "is_at_risk": false,
+      "last_check_block": 88723370
+    },
+    "0x34fc877c1b2b2718de449077994a0eb31f144260": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.082801584759393
+      },
+      "last_block": 89514483,
+      "last_seen": 1781711820.0438335,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x27af96ba21ae903ebbd896cece6d24a7dc46436d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1084051592324404
+      },
+      "last_block": 88730907,
+      "last_seen": 1781801356.417296,
+      "is_at_risk": false,
+      "last_check_block": 88730907
+    },
+    "0xa84ed895dad7676ab68c2e97c7fe4da263a93fc9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0340902866639974
+      },
+      "last_block": 89590119,
+      "last_seen": 1783086209.1164398,
+      "is_at_risk": true,
+      "last_check_block": 89590119
+    },
+    "0xe2c864f2e2681f0803a5b0f45012f608abc9ea22": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5579605927283502
+      },
+      "last_block": 88767287,
+      "last_seen": 1781713128.7365644,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdfbce93fbb06e911cf214065f9e7a096629a7919": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5042854556426417
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7753553,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7d8fb8975fbae03f51bb2fc3da36ae259ea28143": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88671839,
+      "last_seen": 1781712749.2258055,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7f51c134230eb9e5aba42bc364d3d3eba26d9712": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88671927,
+      "last_seen": 1781712881.3011756,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfd2162720d9556458f22051940708ef3f9f12b86": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.824810998376981
+      },
+      "last_block": 89514483,
+      "last_seen": 1781834649.591485,
+      "is_at_risk": false,
+      "last_check_block": 88753102
+    },
+    "0x8f10b468b06c6fd214b65f87778827f7d113f996": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589559,
+      "last_seen": 1783089335.293854,
+      "is_at_risk": false,
+      "last_check_block": 89589559
+    },
+    "0xb25d26c75e7efc0d79672873d9def9b708fae975": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2183907612779512
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7753663,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4ac2a7087345fc463700443ef853f7fe22a185b9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88672396,
+      "last_seen": 1781713584.5610175,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x50f4c4e6eb311b5c57a2d38a675bdf3595723954": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88766092,
+      "last_seen": 1781854134.7426155,
+      "is_at_risk": false,
+      "last_check_block": 88766092
+    },
+    "0xe4488d8045d4a4141afcc5f548520670c0a1bc64": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88672688,
+      "last_seen": 1781714022.506844,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbdffcef09a027bfa147e11d2e240853914fc210a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88672745,
+      "last_seen": 1781714108.5342243,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x797cbb7a21c0fe79eea649f9594460145be3682c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4225442800363242
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895359.7729843,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1a394c58d267dafb8e228282093f08a2e697bc9f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2327611687239153
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615695,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3208183d86f77c9b1f3edf2b09b34ab0a5bfb285": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88673260,
+      "last_seen": 1781714880.8916056,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0704521165c869a4f3361674b1a02172c6e4d41f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88673348,
+      "last_seen": 1781715012.6812484,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x068afbfe390a719fda63eb03f0f3558888d4a0fc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88731921,
+      "last_seen": 1781802878.0856636,
+      "is_at_risk": false,
+      "last_check_block": 88731921
+    },
+    "0x510c667a5a4e9edb037b709794a983ad4356e5b3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5217323159201104
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7753851,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0be555443cf0afbd516ae31b0e5bced8ee7eab8e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.384846987029939
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.775382,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb8e3ab888aa33b85667f529b58b627af2dd32448": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88673599,
+      "last_seen": 1781715388.5325365,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9c8311ecae536265ebebf4a560487ab08ec8f384": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0963374181260224
+      },
+      "last_block": 89514483,
+      "last_seen": 1781715629.59468,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x5f958dca51ab1962242462d4715e792b8094d8e1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1921265306023003
+      },
+      "last_block": 89514483,
+      "last_seen": 1781810216.168442,
+      "is_at_risk": false,
+      "last_check_block": 88736813
+    },
+    "0xcb418339a22dd67c183bc84393af62ffcef19296": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.1259287331024477
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7753925,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9eb935be19f01ddbf8439006074651bb1ecbb7d7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769945.7753987,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2228009dafda833908eb5dfda1ee577e8999fe71": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3756476959047501
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769945.7754002,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x332ee8310fdbcabb11757028eec791adfe938cc8": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2625988443374068
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.5424354,
+      "is_at_risk": false,
+      "last_check_block": 88722195
+    },
+    "0xba5e45fd604632f0370998fe65d9e9cc279ff66d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.217500654711563
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090016,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa8fa5a6d66b80b77bfdfc8a3b4a5cbbff51bf760": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.931056337998593
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769947.8422241,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x48c31e3a864506ddc66c13523b8b50b010ab6c8f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8431009369272435
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769947.8422332,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x74b018869ad5411b14085db85a2c6e69d1fe0436": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.421481057714036
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769947.842235,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9515a7d60733ef3515e8a471e98c2db468f5ebfb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8497545936372386
+      },
+      "last_block": 89514483,
+      "last_seen": 1781784313.099475,
+      "is_at_risk": false,
+      "last_check_block": 88719529
+    },
+    "0x5c87b9ca8e65aa9ff61eebfd6155aad13fdd3191": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88728157,
+      "last_seen": 1781797232.3544958,
+      "is_at_risk": false,
+      "last_check_block": 88728157
+    },
+    "0x5e1df769e8313371aec2a1bc610163c363d1ead4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6300460935396275
+      },
+      "last_block": 89514483,
+      "last_seen": 1781789927.1800058,
+      "is_at_risk": false,
+      "last_check_block": 88723287
+    },
+    "0x51fdf42ddf36fc184019b182cb376324cfa49606": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0739919036311214
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769949.907942,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8c05cde00a6644ddf67cac566203e1457bc222b9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.776914054086777
+      },
+      "last_block": 88774896,
+      "last_seen": 1781867340.047575,
+      "is_at_risk": false,
+      "last_check_block": 88774896
+    },
+    "0x38d19e0d12ca31f8e4e1bf3eeef62360b341cf41": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.646652995281618
+      },
+      "last_block": 89514483,
+      "last_seen": 1781796420.755215,
+      "is_at_risk": false,
+      "last_check_block": 88727616
+    },
+    "0x5069213d76b86f92a1fe35cc60b358a1357e4600": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6970994129706216
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746565,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8c9cd965b7561b86f7069fd8ce9728383846055a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1366793168608376
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769949.907964,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf5d1fd3d0de3d0074954261c6d3688acb6115ae4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1980288696435013
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081284.1649992,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbd1450c598ef710f443eb4af989122569499004e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.370309852815129
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769949.90797,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf25fdbcde176315e03185a5a9ff9bc7df24cf45b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1773592677125548
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185882,
+      "is_at_risk": false,
+      "last_check_block": 89460245
+    },
+    "0x3b5e5b15e4c7cd31293953439c9ff58ae9bbe7a4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88729047,
+      "last_seen": 1781798567.116715,
+      "is_at_risk": false,
+      "last_check_block": 88729047
+    },
+    "0x9c98cb7297bf91f10b541c7832db5ca8765bbee9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1669722904050843
+      },
+      "last_block": 89586143,
+      "last_seen": 1781769951.972642,
+      "is_at_risk": false,
+      "last_check_block": 89584205
+    },
+    "0x055b2e692b7e7584a1c02a506b2bada516515260": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.2053367566695354
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.9726474,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xeb539f0c5f45c8c0f4f9c6ebd9f6c9f4bbfe0e06": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5677158039786006
+      },
+      "last_block": 89514483,
+      "last_seen": 1781810076.7726223,
+      "is_at_risk": false,
+      "last_check_block": 88736720
+    },
+    "0x0e98a742f4814389980be1376e204460e665571d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1579358194363853
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.972654,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3a39faf804f705d984b858a85dc2dc3d7649bfcd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9408177448865072
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.972656,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x6d3447ef34b29c3a051affb8c97cbd99aae7bfcd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.086473012093744
+      },
+      "last_block": 89514483,
+      "last_seen": 1781782334.1907225,
+      "is_at_risk": false,
+      "last_check_block": 88718225
+    },
+    "0xce87154ca86821376292af3f118503d2b961030d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3036648662832344
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6186016,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x895777670dc86130bb1e05a53571b1fee3752575": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2497159576997054
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.9726613,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x20db29ec764ed25819cc1625ee1dc0d848dca8e6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3252466629499717
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.9726636,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xcb85ca5ee3d540d1569402e06cfcd4222a9e8b5a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3529598522925417
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619597,
+      "is_at_risk": false,
+      "last_check_block": 88725396
+    },
+    "0xd6131ce74ca4fc672b26cf8e094a7d1d8b44e702": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5602252223824935
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.9726677,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0abe25053591e2741e809f8d238abde52f4acd34": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.511343706925556
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502307,
+      "is_at_risk": false,
+      "last_check_block": 88759952
+    },
+    "0x45f43752757216373b8588c9bb6005ea74b69cf2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9265365340353242
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769951.972674,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x956684d9d139edcf54f92f889a5cca426e2b2c98": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1276480735785142
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769954.0558026,
+      "is_at_risk": false,
+      "last_check_block": 88767816
+    },
+    "0x39a21690dc1c8e163b0a624cedba2987d866cb6f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4879523543567397
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274624,
+      "is_at_risk": false,
+      "last_check_block": 88736172
+    },
+    "0x960bd183f80b0b00a6bae764f0783bec0dc4cef6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.132873363619382
+      },
+      "last_block": 89586141,
+      "last_seen": 1781769954.0561595,
+      "is_at_risk": false,
+      "last_check_block": 89584205
+    },
+    "0x365a0f3a675464a3fca24f49ed2adb3d2315aa13": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3717456076315975
+      },
+      "last_block": 89514483,
+      "last_seen": 1781769954.0561633,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5ed1ef4ab13ab3d929a5178b4c1f24fa09fe53bb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1426154453270527
+      },
+      "last_block": 88726091,
+      "last_seen": 1781794133.1917133,
+      "is_at_risk": false,
+      "last_check_block": 88726091
+    },
+    "0xb2e0a660ea47119bd1f5ffbed83f5932375d0622": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.899345382815952
+      },
+      "last_block": 88721326,
+      "last_seen": 1781786985.5591269,
+      "is_at_risk": false,
+      "last_check_block": 88721326
+    },
+    "0xe46c8ff0af1ecb71afc2fe5b92e6fb81ef64edac": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.6715212,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1177e23637f4a35244fb9cf124663f3e1ecd7287": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769954.0561798,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3e72d5fd634a27aa8fbaf766efc064c414015ddb": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709950,
+      "last_seen": 1781769954.0561812,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd9e91438bcde0812c9b63c557cced3e7de5bda4c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88709785,
+      "last_seen": 1781769673.4912407,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x14dc1ced5f79c558a3154591029ed46ace172e69": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 7.183441221183183
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.490445,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x188301ccf35ac89b42bb332a8b13463c81d8239c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88710487,
+      "last_seen": 1781770727.2152958,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4c3b3b05d952df4e1bedb381aad6208c1f1aefab": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88710720,
+      "last_seen": 1781771076.6204371,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf1d8eb728b01505848a21b776312458bc1993b41": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88716934,
+      "last_seen": 1781780397.1240866,
+      "is_at_risk": false,
+      "last_check_block": 88716934
+    },
+    "0x046c500eee8c06ad3c832c7101a318765b297963": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.821022522310082
+      },
+      "last_block": 89514483,
+      "last_seen": 1781771270.0532546,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x6258c1276683f9d09116c06135f75310ac5560f2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4162395575165636
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.61917,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9008d19f58aabd9ed0d60971565aa8510560ab41": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589979,
+      "last_seen": 1783089965.3850222,
+      "is_at_risk": false,
+      "last_check_block": 89589979
+    },
+    "0xf69c472bd0314e3eb104e483dfef7af126080ca7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0153153363365175
+      },
+      "last_block": 89514483,
+      "last_seen": 1781774111.104092,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xde093eaa9d53c087fdc56df44a0a07252b5ce639": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88712870,
+      "last_seen": 1781774301.5265458,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x178fa9b3dd6c7a9b9c5f283313b077e5cf4e528e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88712957,
+      "last_seen": 1781774432.0780146,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x037fcfa024227856491183455a7b0c24613b44ae": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4614814452163059
+      },
+      "last_block": 89514483,
+      "last_seen": 1781774918.251778,
+      "is_at_risk": false,
+      "last_check_block": 88713281
+    },
+    "0x109b32c12f4e8da06aa71492bcdf6c54626617f9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88713420,
+      "last_seen": 1781775126.5848372,
+      "is_at_risk": false,
+      "last_check_block": 88713420
+    },
+    "0x6403d25984f40dcdd95ab5a305fd8ad14e76c254": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88713597,
+      "last_seen": 1781775392.165589,
+      "is_at_risk": false,
+      "last_check_block": 88713597
+    },
+    "0x85aa5cf9b780f8284c64f060a4ce7b79f42f4747": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.245747565981868
+      },
+      "last_block": 89514483,
+      "last_seen": 1781775818.3616254,
+      "is_at_risk": false,
+      "last_check_block": 88713881
+    },
+    "0xd0fdd30058870ec5591b396f0649326c7e4769da": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88714032,
+      "last_seen": 1781776044.5159996,
+      "is_at_risk": false,
+      "last_check_block": 88714032
+    },
+    "0x28547904c8fd224074a349a2313ef852e29e0414": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88714184,
+      "last_seen": 1781776271.9673991,
+      "is_at_risk": false,
+      "last_check_block": 88714184
+    },
+    "0xe3039f2095faa5725e74ee91c78c827dca45c58a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88714689,
+      "last_seen": 1781777030.2850149,
+      "is_at_risk": false,
+      "last_check_block": 88714689
+    },
+    "0x824b5fa611cc153497f69c297149fd63b2bc9999": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88714827,
+      "last_seen": 1781777237.208615,
+      "is_at_risk": false,
+      "last_check_block": 88714827
+    },
+    "0x2dca80061632f3f87c9ca28364d1d0c30cd79a19": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89585265,
+      "last_seen": 1783082894.2088614,
+      "is_at_risk": false,
+      "last_check_block": 89585265
+    },
+    "0xad3b67bca8935cb510c8d18bd45f0b94f54a968f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88766449,
+      "last_seen": 1781854670.0348809,
+      "is_at_risk": false,
+      "last_check_block": 88766449
+    },
+    "0xb2407d89a82d4d383fc7d28a70da1aff2e79709f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88715516,
+      "last_seen": 1781778280.7499294,
+      "is_at_risk": false,
+      "last_check_block": 88715516
+    },
+    "0xa5a4df4513d203bf20ad7e3e900cdf3847f49ff7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4093613262810385
+      },
+      "last_block": 89514483,
+      "last_seen": 1781868327.8657432,
+      "is_at_risk": false,
+      "last_check_block": 88775554
+    },
+    "0x72982dd8083e540050ffac353e6321068cb508c3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88715873,
+      "last_seen": 1781778806.177102,
+      "is_at_risk": false,
+      "last_check_block": 88715873
+    },
+    "0x2be5b44aef8b17439a468082bba4aace92eba4e3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1023838726407467
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904869,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x893151954bf930169bbe24112b335f94241a95f6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4462876561218163
+      },
+      "last_block": 89587989,
+      "last_seen": 1783086979.993778,
+      "is_at_risk": false,
+      "last_check_block": 89587989
+    },
+    "0xeac812660156c8d41bf825c7be127a7f92849d7c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0683575317391774
+      },
+      "last_block": 89590114,
+      "last_seen": 1781803569.5287664,
+      "is_at_risk": true,
+      "last_check_block": 89590114
+    },
+    "0x98b686359a81bb02396037d5024c6f402da00a33": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88716201,
+      "last_seen": 1781779298.065739,
+      "is_at_risk": false,
+      "last_check_block": 88716201
+    },
+    "0x6bc2c7c69f6f9d2b963dc8d8f03d7b22b4fcc75e": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88716477,
+      "last_seen": 1781779711.650798,
+      "is_at_risk": false,
+      "last_check_block": 88716477
+    },
+    "0x920252c738d0ab018824099853bb835a6057a26e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9183953501298878
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873081,
+      "is_at_risk": false,
+      "last_check_block": 88757055
+    },
+    "0x86ac481b0f22e8d504005f90cec6377c12695f11": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.088282005406707
+      },
+      "last_block": 89590113,
+      "last_seen": 1783081296.671075,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x2a4b01b7140b5b3a4860094a9e9ce74b48943dc9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0887600108224171
+      },
+      "last_block": 89590113,
+      "last_seen": 1781805324.9840991,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0xdcf88dc6f63b817d43ecc1576aa968cfc3201beb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88717220,
+      "last_seen": 1781780826.523794,
+      "is_at_risk": false,
+      "last_check_block": 88717220
+    },
+    "0xacc91d60343e694b0480d62f75a6b2add0b7e288": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88717230,
+      "last_seen": 1781780841.0869915,
+      "is_at_risk": false,
+      "last_check_block": 88717230
+    },
+    "0xed786b26c68007fcf50dfecfd92f5893e3bd8738": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88718273,
+      "last_seen": 1781782406.0760045,
+      "is_at_risk": false,
+      "last_check_block": 88718273
+    },
+    "0x16fbb3d451651faa4e8c13c747f1de63a1d236c0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1964091974212083
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904406,
+      "is_at_risk": false,
+      "last_check_block": 88729996
+    },
+    "0xe61be3492fce1cb13e7e807553aa6fb1bb591e1d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88717854,
+      "last_seen": 1781781777.7868152,
+      "is_at_risk": false,
+      "last_check_block": 88717854
+    },
+    "0x892f9094cddea9fa5b46be1757020c43b038d507": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88717864,
+      "last_seen": 1781781792.518131,
+      "is_at_risk": false,
+      "last_check_block": 88717864
+    },
+    "0xe5d6e5e6d8dab66a8c992fd338302b63cefacb40": {
+      "protocols": [
+        "COMPOUND_V3",
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88718146,
+      "last_seen": 1781782215.4470658,
+      "is_at_risk": false,
+      "last_check_block": 88718146
+    },
+    "0x8a773c6a73261965cdcf2cf6c75ff95f2b54f058": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2376139984784
+      },
+      "last_block": 89514483,
+      "last_seen": 1781782035.4868348,
+      "is_at_risk": false,
+      "last_check_block": 88718026
+    },
+    "0xd05e8e48893400adc5e25f296114bb736e0e8a80": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88718037,
+      "last_seen": 1781782052.0420048,
+      "is_at_risk": false,
+      "last_check_block": 88718037
+    },
+    "0x8cb14945247926a81378ad8f5db2082049524597": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4161998255350274
+      },
+      "last_block": 89514483,
+      "last_seen": 1781782258.6562693,
+      "is_at_risk": false,
+      "last_check_block": 88718175
+    },
+    "0x318e209c878ff5232f4de3df248cec1da496d126": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88718193,
+      "last_seen": 1781782285.6012144,
+      "is_at_risk": false,
+      "last_check_block": 88718193
+    },
+    "0xb42754bde8e1b793d57abdc27f25cd32b7132fbf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.8942920643823085
+      },
+      "last_block": 89514483,
+      "last_seen": 1781782611.5845592,
+      "is_at_risk": false,
+      "last_check_block": 88718410
+    },
+    "0x23c2cc27b330f000fbde559ccda5265c4c7f3dcc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0121314210027001
+      },
+      "last_block": 89590120,
+      "last_seen": 1781783093.778775,
+      "is_at_risk": true,
+      "last_check_block": 89590120
+    },
+    "0x10503f3e055188aa13131442bd49004da382aa14": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88719355,
+      "last_seen": 1781784029.7206767,
+      "is_at_risk": false,
+      "last_check_block": 88719355
+    },
+    "0xc36ea8e4cd7cab13737a2c18e793000c8b794e96": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 16.833551302618055
+      },
+      "last_block": 89514483,
+      "last_seen": 1781784683.167198,
+      "is_at_risk": false,
+      "last_check_block": 88719791
+    },
+    "0xe324cea3d0066bc10924aba50b5dfe7b9a07d10e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0862022835307499
+      },
+      "last_block": 89514483,
+      "last_seen": 1781847759.6199372,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x4539ea6c5cefae353b0af0d69cc5769cd4133bbb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6864049445254423
+      },
+      "last_block": 88767287,
+      "last_seen": 1781785217.1111922,
+      "is_at_risk": false,
+      "last_check_block": 88720147
+    },
+    "0x747b2f39f3bb19ec9acc6ce8d429554052a01bae": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88720566,
+      "last_seen": 1781785855.1721747,
+      "is_at_risk": false,
+      "last_check_block": 88720566
+    },
+    "0xacebf04adf5cd264d678e69a7a8b32abc85e5684": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88721625,
+      "last_seen": 1781787434.0227964,
+      "is_at_risk": false,
+      "last_check_block": 88721625
+    },
+    "0x2ee515a7cccfad8470fb4bf88bfbbc0492812f6d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3442988280628498
+      },
+      "last_block": 89514483,
+      "last_seen": 1781787170.2608361,
+      "is_at_risk": false,
+      "last_check_block": 88721449
+    },
+    "0x52da8807ffc94eb37e9c9f4eb0b4cae265561786": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2432105777832612
+      },
+      "last_block": 89514483,
+      "last_seen": 1781799729.6763608,
+      "is_at_risk": false,
+      "last_check_block": 88729822
+    },
+    "0xcbedfcf7e3cbec1c5b6b06dcc980a2ec964e9dbf": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88721791,
+      "last_seen": 1781787683.7015367,
+      "is_at_risk": false,
+      "last_check_block": 88721791
+    },
+    "0xad9d3a03648dbcc27aa458238474a1ff88234acf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1398017502120819
+      },
+      "last_block": 89514483,
+      "last_seen": 1781787746.1975937,
+      "is_at_risk": false,
+      "last_check_block": 88721833
+    },
+    "0x2fcc69eaa8c9f33538cbac50eb5432c422825e6d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9939667294219727
+      },
+      "last_block": 89514483,
+      "last_seen": 1781788427.1529603,
+      "is_at_risk": false,
+      "last_check_block": 88722287
+    },
+    "0x4fd6c11189d73128954cb2f50c2cdaa3c482f4db": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88722383,
+      "last_seen": 1781788571.310067,
+      "is_at_risk": false,
+      "last_check_block": 88722383
+    },
+    "0x5693a921fc4517bda34437e6d95333b693a661a6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88722418,
+      "last_seen": 1781788623.6441438,
+      "is_at_risk": false,
+      "last_check_block": 88722418
+    },
+    "0x36f04495a4dc2fd68847b4dcc58b3882fe04afeb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.616237383275698
+      },
+      "last_block": 89514483,
+      "last_seen": 1781789495.493483,
+      "is_at_risk": false,
+      "last_check_block": 88722999
+    },
+    "0x385ec22d9bc7aaf9c1e21b3641f1a2c0a0afd926": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88722878,
+      "last_seen": 1781789313.7992926,
+      "is_at_risk": false,
+      "last_check_block": 88722878
+    },
+    "0x3c10e6f13abc22df2eb9b898b0c533d78d1360bb": {
+      "protocols": [
+        "COMPOUND_V3",
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88758305,
+      "last_seen": 1781842453.889941,
+      "is_at_risk": false,
+      "last_check_block": 88758305
+    },
+    "0x8359c28f1310d1b58281a316e0b56324d88ded4e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88723176,
+      "last_seen": 1781789760.282529,
+      "is_at_risk": false,
+      "last_check_block": 88723176
+    },
+    "0x02b0cfb2c1916eb61498af3abc0a0b2eb0e9c8e7": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88723319,
+      "last_seen": 1781789975.0423763,
+      "is_at_risk": false,
+      "last_check_block": 88723319
+    },
+    "0xacb31302dbc23a1623c46183e07b56145c14f7cd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.609331284669962
+      },
+      "last_block": 89514483,
+      "last_seen": 1781790105.0542371,
+      "is_at_risk": false,
+      "last_check_block": 88723406
+    },
+    "0x36e2e6bcd972708bd8dcd8def231620946fda89b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4202303259610893
+      },
+      "last_block": 89514483,
+      "last_seen": 1781790125.5962498,
+      "is_at_risk": false,
+      "last_check_block": 88723419
+    },
+    "0x7b03d4ec271bac5596ee4f5d5544429b5b5e2b2c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6257929215953943
+      },
+      "last_block": 89586258,
+      "last_seen": 1783084383.6662774,
+      "is_at_risk": false,
+      "last_check_block": 89586258
+    },
+    "0x3a3202c12012227ee9b21bf5938179fe482b1693": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8844936852856333
+      },
+      "last_block": 89514483,
+      "last_seen": 1781790855.1467974,
+      "is_at_risk": false,
+      "last_check_block": 88723906
+    },
+    "0x9feb2f0299bca6b099686a4087af9c1d5a60aff4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1604170872733723
+      },
+      "last_block": 89514483,
+      "last_seen": 1781791118.2404373,
+      "is_at_risk": false,
+      "last_check_block": 88724081
+    },
+    "0xd30f100b50e1957146855e6b01a7d1f2eb8663e4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88773204,
+      "last_seen": 1781864802.1071305,
+      "is_at_risk": false,
+      "last_check_block": 88773204
+    },
+    "0xe7674004ee3d217f3a8c55537f25c797dcbf48c1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88724506,
+      "last_seen": 1781791755.2798028,
+      "is_at_risk": false,
+      "last_check_block": 88724506
+    },
+    "0xaec757bf73cc1f4609a1459205835dd40b4e3f29": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584546,
+      "last_seen": 1783081815.713622,
+      "is_at_risk": false,
+      "last_check_block": 89584546
+    },
+    "0x0c4cb902fffe36e292849df64ab8b9ff5e5a8d81": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88724683,
+      "last_seen": 1781792021.1796224,
+      "is_at_risk": false,
+      "last_check_block": 88724683
+    },
+    "0x17700dbb1416afe5731e9488f70f8a02cd505f7e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88724808,
+      "last_seen": 1781792208.7763932,
+      "is_at_risk": false,
+      "last_check_block": 88724808
+    },
+    "0x54bc979bf30d6c3945b1ec52d5b1eb92d6bd7185": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9861937491315238
+      },
+      "last_block": 88767287,
+      "last_seen": 1781792874.676705,
+      "is_at_risk": false,
+      "last_check_block": 88725252
+    },
+    "0x8042d82d16405de78e477526e66d4602360cad3a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88724884,
+      "last_seen": 1781792322.8621373,
+      "is_at_risk": false,
+      "last_check_block": 88724884
+    },
+    "0x94264445fb3d0cd4f90e2e641ca1bd2a01e5c65a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88724923,
+      "last_seen": 1781792381.0836213,
+      "is_at_risk": false,
+      "last_check_block": 88724923
+    },
+    "0xdb15d36eeed663454a2d4f9a8aae67e2241b8b22": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88725332,
+      "last_seen": 1781792994.7473567,
+      "is_at_risk": false,
+      "last_check_block": 88725332
+    },
+    "0x47a1cfe8aa52f0c3e2d0db13c5e894d5d4fb43a6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.204097564422302
+      },
+      "last_block": 89514483,
+      "last_seen": 1781860113.1425107,
+      "is_at_risk": false,
+      "last_check_block": 88770078
+    },
+    "0x59efb49418c7dbc1baff0b4cb2e60eb3bc7b66a4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88725816,
+      "last_seen": 1781793720.7015157,
+      "is_at_risk": false,
+      "last_check_block": 88725816
+    },
+    "0xebc1f84249b76b89aead4ab2821bdaa2fb79f4ee": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.249672705115946
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3501985,
+      "is_at_risk": false,
+      "last_check_block": 88726374
+    },
+    "0x1afb8624a2f98d7621e752879b259e44267e02f7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3273825750148496
+      },
+      "last_block": 89514483,
+      "last_seen": 1781860991.1392906,
+      "is_at_risk": false,
+      "last_check_block": 88770663
+    },
+    "0x5716e0249a7be64b142382a1e7da0e3eadb854df": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88726641,
+      "last_seen": 1781794958.0179436,
+      "is_at_risk": false,
+      "last_check_block": 88726641
+    },
+    "0x304b0af532f9dc1feb7642bfae1da0a6542d1134": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2312864923501767
+      },
+      "last_block": 89514483,
+      "last_seen": 1781795132.5518363,
+      "is_at_risk": false,
+      "last_check_block": 88726757
+    },
+    "0x70a2698c0fcdb1a122a3c37821abf6dd83eaab78": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88726779,
+      "last_seen": 1781795165.3859143,
+      "is_at_risk": false,
+      "last_check_block": 88726779
+    },
+    "0xd74bb11039da21e3c698835fbe1efcf14f2af6b8": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88726901,
+      "last_seen": 1781795348.2076888,
+      "is_at_risk": false,
+      "last_check_block": 88726901
+    },
+    "0xd1044231d06596d215097787a3a7fc00684420e4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88727249,
+      "last_seen": 1781795870.321297,
+      "is_at_risk": false,
+      "last_check_block": 88727249
+    },
+    "0x146fbbb03588a92f18e475d9198e12182bfe834c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5275722826723779
+      },
+      "last_block": 89514483,
+      "last_seen": 1781795876.2917354,
+      "is_at_risk": false,
+      "last_check_block": 88727253
+    },
+    "0x8fa10f1b144ffc4b74dc5757e4c75040bc5ac852": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5242991575166107
+      },
+      "last_block": 89514483,
+      "last_seen": 1781796164.4853473,
+      "is_at_risk": false,
+      "last_check_block": 88727445
+    },
+    "0x547a18e0df67ca77e88a0d04a68a4dbaa4d99005": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88766007,
+      "last_seen": 1781854006.4919868,
+      "is_at_risk": false,
+      "last_check_block": 88766007
+    },
+    "0x9ec762d784b653e168d93ea3078b023d8958dbc6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88727585,
+      "last_seen": 1781796373.5977154,
+      "is_at_risk": false,
+      "last_check_block": 88727585
+    },
+    "0x210de01bb7d9ef70e8b9452ad4e922cc92c70c6f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88728033,
+      "last_seen": 1781797046.2098243,
+      "is_at_risk": false,
+      "last_check_block": 88728033
+    },
+    "0xfbdb3a79fbdb993adf3ebd849fc8fbe359c5fa0e": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88728036,
+      "last_seen": 1781797050.6965117,
+      "is_at_risk": false,
+      "last_check_block": 88728036
+    },
+    "0x440de8b4e2ae9c63cb1c22c9edd32db11de86113": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1610192876413095
+      },
+      "last_block": 89514483,
+      "last_seen": 1781861346.6274724,
+      "is_at_risk": false,
+      "last_check_block": 88770900
+    },
+    "0xcf140ebc7eec250067fe2c9f02774dfea8645c4b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2129189776420959
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904737,
+      "is_at_risk": false,
+      "last_check_block": 88729285
+    },
+    "0xaf2a5950ce95aaf3d40ea5654307d6926af00d36": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589515,
+      "last_seen": 1783089268.6466677,
+      "is_at_risk": false,
+      "last_check_block": 89589515
+    },
+    "0xa77f88c5031648b7903afaca4e2a431f21f07f0c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5464049591457167
+      },
+      "last_block": 89514483,
+      "last_seen": 1781798087.0289557,
+      "is_at_risk": false,
+      "last_check_block": 88728727
+    },
+    "0x76571655650037715742100cd2e33b42f61f2dae": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88728741,
+      "last_seen": 1781798108.6284428,
+      "is_at_risk": false,
+      "last_check_block": 88728741
+    },
+    "0x82d8e4d849873b3676f0e91098a37c205c694c84": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88729253,
+      "last_seen": 1781798876.3276572,
+      "is_at_risk": false,
+      "last_check_block": 88729253
+    },
+    "0x29291964b3e56be106bad5b5febdba100052d43f": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88728844,
+      "last_seen": 1781798262.9612954,
+      "is_at_risk": false,
+      "last_check_block": 88728844
+    },
+    "0x79511693914877d443992f9f8f17737829136814": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88729300,
+      "last_seen": 1781798946.8155205,
+      "is_at_risk": false,
+      "last_check_block": 88729300
+    },
+    "0xf538616682e149f25058d9dadfbf8ecbbdd957ec": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3985154409498475
+      },
+      "last_block": 89514483,
+      "last_seen": 1781799132.7487695,
+      "is_at_risk": false,
+      "last_check_block": 88729424
+    },
+    "0xcd1e450b13f99fb582b6a2286e50b439600d00f2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1128858155859966
+      },
+      "last_block": 88767287,
+      "last_seen": 1781798994.6362936,
+      "is_at_risk": false,
+      "last_check_block": 88729332
+    },
+    "0x064f4b59d8bd28c65a84206a384602c53c6a15f3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2033422782122847
+      },
+      "last_block": 89514483,
+      "last_seen": 1781799131.3345385,
+      "is_at_risk": false,
+      "last_check_block": 88729423
+    },
+    "0xf1eb73a6a44da078a5a1c1151766469d06f6d2d3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.179026995938312
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746456,
+      "is_at_risk": false,
+      "last_check_block": 88729447
+    },
+    "0x3c56f017d9ce85350df8f4b495033aaa15563a99": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88768848,
+      "last_seen": 1781858268.4589977,
+      "is_at_risk": false,
+      "last_check_block": 88768848
+    },
+    "0x8e199e76ad1ddf73fa9687f853176eede5baf974": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1050412818960993
+      },
+      "last_block": 89514483,
+      "last_seen": 1781799456.799423,
+      "is_at_risk": false,
+      "last_check_block": 89460245
+    },
+    "0xe72f9b2bf782a234636f0bdf9fb11ab5c564bd84": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88758424,
+      "last_seen": 1781842632.4885843,
+      "is_at_risk": false,
+      "last_check_block": 88758424
+    },
+    "0x8adf3a46c0b25efd1f6118a7a1c3f8a43ea79d89": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88730086,
+      "last_seen": 1781800125.656137,
+      "is_at_risk": false,
+      "last_check_block": 88730086
+    },
+    "0xcf531ba6b9c20e9407837ce9ee8b648c5ceaa179": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.9918529782159857
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502214,
+      "is_at_risk": false,
+      "last_check_block": 88730027
+    },
+    "0x03c98ecbe0c3ae7c8556e3d88d974d62014eabff": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88730196,
+      "last_seen": 1781800290.7773168,
+      "is_at_risk": false,
+      "last_check_block": 88730196
+    },
+    "0x9e44257b36c062dd10145ea40f0e45798beceb54": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2397362556938323
+      },
+      "last_block": 89514483,
+      "last_seen": 1781800722.7713182,
+      "is_at_risk": false,
+      "last_check_block": 88730484
+    },
+    "0x9ca841efccc415c234feadc287b9548eaa44bbb5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4118670172550558
+      },
+      "last_block": 89514483,
+      "last_seen": 1781800872.839509,
+      "is_at_risk": false,
+      "last_check_block": 88730584
+    },
+    "0x86e070052db1037f4c6728334698d1efff9a6776": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88730766,
+      "last_seen": 1781801145.5827172,
+      "is_at_risk": false,
+      "last_check_block": 88730766
+    },
+    "0xdaca5fc617f0d124edf7ea9fcc3e92fc8a35eb3e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88730798,
+      "last_seen": 1781801193.6833477,
+      "is_at_risk": false,
+      "last_check_block": 88730798
+    },
+    "0x34823b390f918c56d113ed9126f7ec1a3d1a2fc1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.5606423007091283
+      },
+      "last_block": 89514483,
+      "last_seen": 1781801261.1293235,
+      "is_at_risk": false,
+      "last_check_block": 88730843
+    },
+    "0x761809c62009b00732b5550c923f887e45554d3a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7800116554005383
+      },
+      "last_block": 89514483,
+      "last_seen": 1781801328.7227833,
+      "is_at_risk": false,
+      "last_check_block": 88730888
+    },
+    "0x3e022f9d4a8da6bf9e248c183fdfc1a14323e829": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2521876388692852
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615855,
+      "is_at_risk": false,
+      "last_check_block": 88730971
+    },
+    "0xf36da5c1b7569b0a01144d56e1d9713d67f8a8b0": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88730980,
+      "last_seen": 1781801466.0088096,
+      "is_at_risk": false,
+      "last_check_block": 88730980
+    },
+    "0xd3d40870c53c407880605631f14d473eb7c6a6f5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88731076,
+      "last_seen": 1781801610.775282,
+      "is_at_risk": false,
+      "last_check_block": 88731076
+    },
+    "0x9dc64eb7fe5aa2cb495281d3090e1079d6ac172b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6897605743615975
+      },
+      "last_block": 89514483,
+      "last_seen": 1781801828.2719102,
+      "is_at_risk": false,
+      "last_check_block": 88731221
+    },
+    "0x399eb8f87835bdb6b4a54e2d83384cf52f9604af": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2849044295764218
+      },
+      "last_block": 89514483,
+      "last_seen": 1781802005.3992066,
+      "is_at_risk": false,
+      "last_check_block": 88731339
+    },
+    "0x511cc534565efacb75f876104c744261b80d001f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0025830896930454
+      },
+      "last_block": 88767287,
+      "last_seen": 1781802197.2441046,
+      "is_at_risk": false,
+      "last_check_block": 88731467
+    },
+    "0x97783ee3fa08b8950b4ac3c8a5c0d672d1bc0348": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2417448450787991
+      },
+      "last_block": 89514483,
+      "last_seen": 1781802364.089967,
+      "is_at_risk": false,
+      "last_check_block": 88731578
+    },
+    "0x56722c5fd474d0b1a3b53a1585432c3f865b1137": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.215498656739938
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615788,
+      "is_at_risk": false,
+      "last_check_block": 88731610
+    },
+    "0x2619ff632e069d2b9798f85da72194e430743ea1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1501045259079137
+      },
+      "last_block": 89514483,
+      "last_seen": 1781804954.108396,
+      "is_at_risk": false,
+      "last_check_block": 88733305
+    },
+    "0xcb906d02cf0d4031c36bcbfc95dba6786fb77bad": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88731804,
+      "last_seen": 1781802702.5951343,
+      "is_at_risk": false,
+      "last_check_block": 88731804
+    },
+    "0x62834a668064ad281bad598a92f1dc23b292ce0b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3117658749696712
+      },
+      "last_block": 89586831,
+      "last_seen": 1783085242.9680207,
+      "is_at_risk": false,
+      "last_check_block": 89586831
+    },
+    "0x93ceea03e51e6188c94595c8cbd7bb366e801d2c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88731906,
+      "last_seen": 1781802855.5161648,
+      "is_at_risk": false,
+      "last_check_block": 88731906
+    },
+    "0x5915796a165bf463c3a8dbfb267edd57de9f812d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88731965,
+      "last_seen": 1781802944.1748333,
+      "is_at_risk": false,
+      "last_check_block": 88731965
+    },
+    "0xc7fc6036295b908e999affd32c81d1e086ac89c2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2573990566681
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7056346,
+      "is_at_risk": false,
+      "last_check_block": 88732048
+    },
+    "0x203864bf3d036cc1535622e5ef2d3de9243a925c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6790527251378644
+      },
+      "last_block": 89514483,
+      "last_seen": 1781805491.0994835,
+      "is_at_risk": false,
+      "last_check_block": 88733663
+    },
+    "0x429814368c0be105eb08d883d43eba8544bcdbf3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88732336,
+      "last_seen": 1781803500.5598986,
+      "is_at_risk": false,
+      "last_check_block": 88732336
+    },
+    "0x55cdbe635ef5f65f7aa7ce5c86d8095537cf7c69": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3408890022364754
+      },
+      "last_block": 89514483,
+      "last_seen": 1781829854.165149,
+      "is_at_risk": false,
+      "last_check_block": 88749905
+    },
+    "0x8b3a4e69317ce25d711c3bcc141acb13dd0d7b4f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88732486,
+      "last_seen": 1781803725.7390847,
+      "is_at_risk": false,
+      "last_check_block": 88732486
+    },
+    "0x71b779df6898c22a854ead63c0e68bb23e00ae6e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.165542257844599
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746513,
+      "is_at_risk": false,
+      "last_check_block": 88732562
+    },
+    "0x9890dec1a3982d1ad0ab72153b1ae5be7964f2ec": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.590839999231275
+      },
+      "last_block": 88767287,
+      "last_seen": 1781803844.181879,
+      "is_at_risk": false,
+      "last_check_block": 88732565
+    },
+    "0xdb95ca15d8ab1ab6672ef5ed8733b67bc4d1658c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88732621,
+      "last_seen": 1781803928.2344735,
+      "is_at_risk": false,
+      "last_check_block": 88732621
+    },
+    "0x350da82c5e78a5165d4f62aa73d3707b81c26590": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8844499323280737
+      },
+      "last_block": 89514483,
+      "last_seen": 1781804087.0450776,
+      "is_at_risk": false,
+      "last_check_block": 88732727
+    },
+    "0x739b1bcc53a65b47eafbeb377fce006b2d84fec6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88732780,
+      "last_seen": 1781804166.5491738,
+      "is_at_risk": false,
+      "last_check_block": 88732780
+    },
+    "0x13f0e1263c93b3c7839c52aed1017abe705796f9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88733102,
+      "last_seen": 1781804650.3551533,
+      "is_at_risk": false,
+      "last_check_block": 88733102
+    },
+    "0xddebd8c03ec7d217df0435862da79a8a5f4eee7d": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.6714249,
+      "is_at_risk": false,
+      "last_check_block": 88733136
+    },
+    "0xd2b01e8adb723fedf4f096d9c7814d633eb6a635": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.284216795662271
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905324,
+      "is_at_risk": false,
+      "last_check_block": 88733439
+    },
+    "0x1e82ad8a12068a85fcb96368463b434e77b21201": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88748671,
+      "last_seen": 1781828003.184034,
+      "is_at_risk": false,
+      "last_check_block": 88748671
+    },
+    "0xab1174d7f1ad5c0e1f066561f7136cfeebd78f96": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88733521,
+      "last_seen": 1781805278.179049,
+      "is_at_risk": false,
+      "last_check_block": 88733521
+    },
+    "0x09ad820aac5779683b481c4674208a4e1b024afa": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460459,
+      "last_seen": 1782895685.200375,
+      "is_at_risk": false,
+      "last_check_block": 89460459
+    },
+    "0xdc4552609a3f673f0b72958f678d4a48d0e94ebd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88733843,
+      "last_seen": 1781805761.106182,
+      "is_at_risk": false,
+      "last_check_block": 88733843
+    },
+    "0x473863443df6c9317aa1a35a514e3ff1e9a3b14f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88734030,
+      "last_seen": 1781806041.1979327,
+      "is_at_risk": false,
+      "last_check_block": 88734030
+    },
+    "0x80129582dbae160f3bb3c9f3131049f294614d79": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7224374292665328
+      },
+      "last_block": 89514483,
+      "last_seen": 1781806110.6897368,
+      "is_at_risk": false,
+      "last_check_block": 88734076
+    },
+    "0x5e24cd940cf8b45ee0c3fe46ba140edccfebe236": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88734130,
+      "last_seen": 1781806191.6329463,
+      "is_at_risk": false,
+      "last_check_block": 88734130
+    },
+    "0x653ccb3deed2044890d51669dd780caa2011c961": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2388772093111278
+      },
+      "last_block": 89514483,
+      "last_seen": 1781807045.1972377,
+      "is_at_risk": false,
+      "last_check_block": 88734699
+    },
+    "0x269782b044b2229a596439c4d8ec99baf32e4c60": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88763749,
+      "last_seen": 1781850620.205665,
+      "is_at_risk": false,
+      "last_check_block": 88763749
+    },
+    "0xaa978d7b17a95bce35e57b150cc4ff27cab08c7e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.382483697074687
+      },
+      "last_block": 89514483,
+      "last_seen": 1781807742.5780334,
+      "is_at_risk": false,
+      "last_check_block": 88735164
+    },
+    "0x051e79cedb243e0d3f98f7c8f957b59a7fcda4dc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1954226027375454
+      },
+      "last_block": 89514483,
+      "last_seen": 1781808311.2812364,
+      "is_at_risk": false,
+      "last_check_block": 88735543
+    },
+    "0x5e210af058882e8ac181e5250e6339d01f7d00cf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.449629424535579
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746034,
+      "is_at_risk": false,
+      "last_check_block": 88735780
+    },
+    "0x347acac24b1fe224c3b9c9d3fc9b57962bc41c81": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.2898355605662375
+      },
+      "last_block": 89514483,
+      "last_seen": 1781808627.5019658,
+      "is_at_risk": false,
+      "last_check_block": 88735754
+    },
+    "0x55d8e00338f0b652796e176504876f41d177e09b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88735968,
+      "last_seen": 1781808948.6900315,
+      "is_at_risk": false,
+      "last_check_block": 88735968
+    },
+    "0xe37466a054036da9e221fbc0e6a9e81fc8a97d83": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4911291126441661
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746148,
+      "is_at_risk": false,
+      "last_check_block": 88735890
+    },
+    "0x42c0a66b822ccadca57bb8a6131b04f3eb7b2f4a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88735900,
+      "last_seen": 1781808846.9178472,
+      "is_at_risk": false,
+      "last_check_block": 88735900
+    },
+    "0x3c9faa42b224d3adbdcf52102fcfab7e0b1dd301": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4604477527769157
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.0989926,
+      "is_at_risk": false,
+      "last_check_block": 88735949
+    },
+    "0x111111125421ca6dc452d289314280a0f8842a65": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589007,
+      "last_seen": 1783088506.6149642,
+      "is_at_risk": false,
+      "last_check_block": 89589007
+    },
+    "0x505a35dde6725a9c998c467f34956b0047e833df": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1865851048360319
+      },
+      "last_block": 89589036,
+      "last_seen": 1783088550.0276546,
+      "is_at_risk": false,
+      "last_check_block": 89589036
+    },
+    "0xddf95a095afc0762aac8c9a0d9a4a68c2cdd9278": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4183134645127629
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.0989954,
+      "is_at_risk": false,
+      "last_check_block": 88736184
+    },
+    "0x14c3371b8cc102a8d568ec2f9fb603410abd66c2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88736344,
+      "last_seen": 1781809512.6579952,
+      "is_at_risk": false,
+      "last_check_block": 88736344
+    },
+    "0x94f1e2d6d183b97a01b4a6428b95c791836be1f0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88736545,
+      "last_seen": 1781809814.3348975,
+      "is_at_risk": false,
+      "last_check_block": 88736545
+    },
+    "0x6d8afbf9f5449ffafdc5c4005dfca4e191775226": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.494076941953885
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609083,
+      "is_at_risk": false,
+      "last_check_block": 88736812
+    },
+    "0xaac957171a919944f98b33bd25505bdbf54ab19c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.861616168549759
+      },
+      "last_block": 89514483,
+      "last_seen": 1781810705.2441342,
+      "is_at_risk": false,
+      "last_check_block": 88737139
+    },
+    "0xbbdbc34bf468592e249ed95d90c842b673c84ca6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88737247,
+      "last_seen": 1781810867.2351685,
+      "is_at_risk": false,
+      "last_check_block": 88737247
+    },
+    "0x0fcd93be9734ffce335a6231364e79ee4242334f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.100597264812985
+      },
+      "last_block": 89584205,
+      "last_seen": 1781811138.577394,
+      "is_at_risk": false,
+      "last_check_block": 89584205
+    },
+    "0x566ee41fba2946c7e4a80d7107c3f557b5004884": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88737569,
+      "last_seen": 1781811350.245449,
+      "is_at_risk": false,
+      "last_check_block": 88737569
+    },
+    "0x76070fad67f36ec7a1cfd7f88d75bf2b1bbeab43": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0643037146159793
+      },
+      "last_block": 89590098,
+      "last_seen": 1781840897.0969121,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x1aec2004c3c746fa9c150cb8c91eeaa8745ccd7c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3972536700473122
+      },
+      "last_block": 89514483,
+      "last_seen": 1781811983.3508031,
+      "is_at_risk": false,
+      "last_check_block": 88737991
+    },
+    "0x1cfee4f08062e1c354bd99afddfdd0703f2a14df": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88737951,
+      "last_seen": 1781811923.1877275,
+      "is_at_risk": false,
+      "last_check_block": 88737951
+    },
+    "0x09fa0edbac72eee8a932fd913f7f7460521a1504": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.101705126913274
+      },
+      "last_block": 89514483,
+      "last_seen": 1781812106.086656,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x0c30a81525b5b91bab9062084c43fa410bc3ab00": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88747759,
+      "last_seen": 1781826635.4180703,
+      "is_at_risk": false,
+      "last_check_block": 88747759
+    },
+    "0x888347b912db1954e34d6d37d4d051cf55f45187": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.484684525473926
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6192007,
+      "is_at_risk": false,
+      "last_check_block": 88749024
+    },
+    "0xf0abcc8d2aacbb19115bf93bbe2b1b8452792999": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2357120444405567
+      },
+      "last_block": 89514483,
+      "last_seen": 1781833701.4046936,
+      "is_at_risk": false,
+      "last_check_block": 88752470
+    },
+    "0xb96ef28bbea64c83ef4d94b02f22dde9e0fc3708": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.129610966839442
+      },
+      "last_block": 89514483,
+      "last_seen": 1781829125.1285694,
+      "is_at_risk": false,
+      "last_check_block": 88749419
+    },
+    "0x69741d3c23e2b50cc70feefaeeb62516e51084e6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.269388350420458
+      },
+      "last_block": 89514483,
+      "last_seen": 1781829515.026763,
+      "is_at_risk": false,
+      "last_check_block": 88749679
+    },
+    "0x677328fce67b1f310b5068cffdc5f7832a055245": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88749778,
+      "last_seen": 1781829664.173292,
+      "is_at_risk": false,
+      "last_check_block": 88749778
+    },
+    "0x3fe0b09847cbdfbcbb6c00bbb5ce34245d32f9d9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2296245483464627
+      },
+      "last_block": 89514483,
+      "last_seen": 1781830124.2527747,
+      "is_at_risk": false,
+      "last_check_block": 88750085
+    },
+    "0x3977e5c8cdfc595a92b60675cf0b47dfadded896": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.876535432011222
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6186047,
+      "is_at_risk": false,
+      "last_check_block": 88753463
+    },
+    "0x338a9e7a68fe956138ea19c69167fe8f1d18812b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.285148435800615
+      },
+      "last_block": 89514483,
+      "last_seen": 1781834694.5472238,
+      "is_at_risk": false,
+      "last_check_block": 88753132
+    },
+    "0xe30e13885cb014722d5a3a6d470f0e9a8c74c5a5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 512.4971445068628
+      },
+      "last_block": 89514483,
+      "last_seen": 1781835664.8395598,
+      "is_at_risk": false,
+      "last_check_block": 88753778
+    },
+    "0x7ec1d8ce05c1db1131c4e1a54dc9b0186c939fb9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88750526,
+      "last_seen": 1781830785.665457,
+      "is_at_risk": false,
+      "last_check_block": 88750526
+    },
+    "0xbc72c62efc6bdacf8a73a6ba57f3c06d7a26ec89": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2471019631506148
+      },
+      "last_block": 89514483,
+      "last_seen": 1781832464.0344603,
+      "is_at_risk": false,
+      "last_check_block": 88751645
+    },
+    "0xd67d20208f3855874940d8a83c92a0a4ad7306c4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88751875,
+      "last_seen": 1781832809.1744676,
+      "is_at_risk": false,
+      "last_check_block": 88751875
+    },
+    "0xb9635d2de810b8161f9639572054130b1ccf17d0": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88751762,
+      "last_seen": 1781832638.9507742,
+      "is_at_risk": false,
+      "last_check_block": 88751762
+    },
+    "0x7aa9a535856c9e1ecfd7349467ed2654234af222": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.379245288851197
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090174,
+      "is_at_risk": false,
+      "last_check_block": 88752197
+    },
+    "0xb4f55bf507c2d585ae295c249b1cdf963c5eec68": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1889921253023703
+      },
+      "last_block": 89514483,
+      "last_seen": 1781833526.0568194,
+      "is_at_risk": false,
+      "last_check_block": 88752353
+    },
+    "0x73765ca0e61c56c91a5ef9582281eecfdd93f1c8": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4016818047091955
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.705681,
+      "is_at_risk": false,
+      "last_check_block": 88752945
+    },
+    "0x1e555e36d1c121e5af3178f469e1b458a386f7bd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88752967,
+      "last_seen": 1781834447.150351,
+      "is_at_risk": false,
+      "last_check_block": 88752967
+    },
+    "0x1ed1ef8d920d678f571a9ba7c0d2ffc97b4f53d5": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88753709,
+      "last_seen": 1781835560.1947217,
+      "is_at_risk": false,
+      "last_check_block": 88753709
+    },
+    "0x75cdbe5300bf93a2e91fab182ce5385292a13803": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88753743,
+      "last_seen": 1781835611.2930346,
+      "is_at_risk": false,
+      "last_check_block": 88753743
+    },
+    "0x7f7558d9769136dcb9684cca9fe7011b39e68f35": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88753800,
+      "last_seen": 1781835696.5730927,
+      "is_at_risk": false,
+      "last_check_block": 88753800
+    },
+    "0x4ee9e6ce05b7039ecb913658c75e6c35a2eda54a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7681693630389086
+      },
+      "last_block": 89514483,
+      "last_seen": 1781835707.0862389,
+      "is_at_risk": false,
+      "last_check_block": 88753807
+    },
+    "0x421f82c3ed7d7f438ca0992d0d95dbf74fb2b639": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5488899444408084
+      },
+      "last_block": 89514483,
+      "last_seen": 1781835813.8214486,
+      "is_at_risk": false,
+      "last_check_block": 88753878
+    },
+    "0xdd016473b47c8fa52611afe520cd3c38fbe16801": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0024783010154756
+      },
+      "last_block": 89514483,
+      "last_seen": 1781835967.827198,
+      "is_at_risk": false,
+      "last_check_block": 88753980
+    },
+    "0xca42438c22a1bd26d48cc86ac669f23ead65e2c4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1088457932569549
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904785,
+      "is_at_risk": false,
+      "last_check_block": 88764862
+    },
+    "0x4a0fae791bcc488a6c5575cda2d334ed054d0ade": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88755513,
+      "last_seen": 1781838266.2491908,
+      "is_at_risk": false,
+      "last_check_block": 88755513
+    },
+    "0x01a5cae84792f8c4924460b6b026e4a921080f37": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0885361079941553
+      },
+      "last_block": 89465375,
+      "last_seen": 1781838359.3174815,
+      "is_at_risk": false,
+      "last_check_block": 88755575
+    },
+    "0x40c56b5be833cd9b2d45891a90c16ecea31d55a6": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88755810,
+      "last_seen": 1781838711.713905,
+      "is_at_risk": false,
+      "last_check_block": 88755810
+    },
+    "0x68c24c6379bad7dd7215372555c4277cd4914c18": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88756334,
+      "last_seen": 1781839497.6598444,
+      "is_at_risk": false,
+      "last_check_block": 88756334
+    },
+    "0x6ec0715849081792acbb204d76a14cb538987413": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.205786491341745
+      },
+      "last_block": 89514483,
+      "last_seen": 1781840510.0611486,
+      "is_at_risk": false,
+      "last_check_block": 88757009
+    },
+    "0x4eb95492f24dc26a178ffb8a72ffca7387bd40bb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88756840,
+      "last_seen": 1781840256.7166479,
+      "is_at_risk": false,
+      "last_check_block": 88756840
+    },
+    "0xb1f60ec70fa4d36e4bbe7d645efe2797f6c7e20c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88757588,
+      "last_seen": 1781841378.5888777,
+      "is_at_risk": false,
+      "last_check_block": 88757588
+    },
+    "0x42b03ee18c0be2ae475da37e35261570a33321db": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2002233738228962
+      },
+      "last_block": 89514483,
+      "last_seen": 1781841474.9751737,
+      "is_at_risk": false,
+      "last_check_block": 88757652
+    },
+    "0xf1fdc463615de0e40ddf27b3c25fe1f0606efda1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88757783,
+      "last_seen": 1781841671.5209067,
+      "is_at_risk": false,
+      "last_check_block": 88757783
+    },
+    "0xa97054ed32d870c05855f3f7647a60240f6a1ab2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5619551319777634
+      },
+      "last_block": 89514483,
+      "last_seen": 1781842817.0991697,
+      "is_at_risk": false,
+      "last_check_block": 88758547
+    },
+    "0x5d954d62477749109c5aad3d245e448c4e45f866": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8335045693218857
+      },
+      "last_block": 89514483,
+      "last_seen": 1781844090.5862517,
+      "is_at_risk": false,
+      "last_check_block": 88759396
+    },
+    "0xfbfef3e83c942710a3588cb8892695ab3d67a476": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 11.09586459815503
+      },
+      "last_block": 89514483,
+      "last_seen": 1781845946.0149002,
+      "is_at_risk": false,
+      "last_check_block": 88760633
+    },
+    "0x2429144e9ecfe3d9be548457d6f357fdb2b1673f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.4200246992618624
+      },
+      "last_block": 88767287,
+      "last_seen": 1781846237.2094586,
+      "is_at_risk": false,
+      "last_check_block": 88760827
+    },
+    "0x826728df38a377a9851018341265505034fe3418": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88761535,
+      "last_seen": 1781847299.0486786,
+      "is_at_risk": false,
+      "last_check_block": 88761535
+    },
+    "0x7b1ab6689b310946b988fa81a8f1d2cc5411e29a": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88761952,
+      "last_seen": 1781847924.6199424,
+      "is_at_risk": false,
+      "last_check_block": 88761952
+    },
+    "0x2a51b8da9a40584ad4247490cb27d36b2941d41b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.58440573250835
+      },
+      "last_block": 89514483,
+      "last_seen": 1781848109.1173968,
+      "is_at_risk": false,
+      "last_check_block": 88762075
+    },
+    "0x58840d61ebda0f13fa22f7f819af4fb8966ba0ff": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.539588959505178
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904814,
+      "is_at_risk": false,
+      "last_check_block": 88762312
+    },
+    "0x77d82dbbb14e2366bde4a412adede2423e186b3f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88762926,
+      "last_seen": 1781849385.5607197,
+      "is_at_risk": false,
+      "last_check_block": 88762926
+    },
+    "0x7f5131b043e702ead00e999370ee458e9c1dc639": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88762991,
+      "last_seen": 1781849483.0497725,
+      "is_at_risk": false,
+      "last_check_block": 88762991
+    },
+    "0xf7727c942442e6b0121c8e6097480d1365c77928": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.315980042922326
+      },
+      "last_block": 89514483,
+      "last_seen": 1781850852.6304681,
+      "is_at_risk": false,
+      "last_check_block": 88763904
+    },
+    "0x0333f7cc454f90b7d688e132f2d1f9e413b9b203": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88764536,
+      "last_seen": 1781851800.5178032,
+      "is_at_risk": false,
+      "last_check_block": 88764536
+    },
+    "0x31242ee9026049a2feab086ff666c10f016c8f2d": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 88764932,
+      "last_seen": 1781852394.645728,
+      "is_at_risk": false,
+      "last_check_block": 88764932
+    },
+    "0x7ff94504fab8db7182e7d05f661ed1eebfaee209": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88765830,
+      "last_seen": 1781853741.6915321,
+      "is_at_risk": false,
+      "last_check_block": 88765830
+    },
+    "0x0dd2171dd7a543cb3983af30a5e5b179182be9dc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.9816200638726933
+      },
+      "last_block": 89514483,
+      "last_seen": 1781855286.6257231,
+      "is_at_risk": false,
+      "last_check_block": 88766860
+    },
+    "0xe4f69f4fdc322b8d55624423f113aa9c07d8e1e4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3217794686013877
+      },
+      "last_block": 88767554,
+      "last_seen": 1781856233.10942,
+      "is_at_risk": false,
+      "last_check_block": 88767491
+    },
+    "0x8d55eff552fe561bf88c15bfbdadfe059b865798": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4580933924989754
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.70562,
+      "is_at_risk": false,
+      "last_check_block": 88767532
+    },
+    "0xb0f8b4b366265cb4c3964e1d7af4d2751f2c28c5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7753760523600577
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387315,
+      "is_at_risk": false,
+      "last_check_block": 88767801
+    },
+    "0x4f9d867ab415c015601dbf70387e0efcfd60dc63": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88768294,
+      "last_seen": 1781857495.2317233,
+      "is_at_risk": false,
+      "last_check_block": 88768294
+    },
+    "0x1d58a8c5f3244066c8ff2843f162d84c0e43db51": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88768461,
+      "last_seen": 1781857688.1607254,
+      "is_at_risk": false,
+      "last_check_block": 88768461
+    },
+    "0xbf99c70b22dd8933b891b229baeda406c4b287a4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.216120212391195
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.350242,
+      "is_at_risk": false,
+      "last_check_block": 88768588
+    },
+    "0x11424e694601ad3d3b23be7dcc841c01a882d2e7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88768812,
+      "last_seen": 1781858213.9065726,
+      "is_at_risk": false,
+      "last_check_block": 88768812
+    },
+    "0x87a3119048c0d886cad551edf2a2c9c5b8ecf3ea": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88769202,
+      "last_seen": 1781858799.5276449,
+      "is_at_risk": false,
+      "last_check_block": 88769202
+    },
+    "0x0b2c3f75afb335f9f8c233215f5b70c33479366b": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88771768,
+      "last_seen": 1781862648.498958,
+      "is_at_risk": false,
+      "last_check_block": 88771768
+    },
+    "0x7e186016b365c79ae28a243dbfb53f6762854c29": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88770248,
+      "last_seen": 1781860368.6811264,
+      "is_at_risk": false,
+      "last_check_block": 88770248
+    },
+    "0xc02a2ec3e39c1b17bd2f7ef4658996a62aa30484": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7333411137613337
+      },
+      "last_block": 89514483,
+      "last_seen": 1781861187.9418826,
+      "is_at_risk": false,
+      "last_check_block": 88770794
+    },
+    "0x96237d852001ac38e5d45398bb40c23e1670fedc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9317138446630866
+      },
+      "last_block": 89514483,
+      "last_seen": 1781861220.8782737,
+      "is_at_risk": false,
+      "last_check_block": 88770816
+    },
+    "0x1bbb3be801017e2513e760323540b7602c8e184c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7109947025302865
+      },
+      "last_block": 89514483,
+      "last_seen": 1781861324.079374,
+      "is_at_risk": false,
+      "last_check_block": 88770885
+    },
+    "0x424375919bd12f6f33da00e7c54d81f7f98fe634": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3330132664571184
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619468,
+      "is_at_risk": false,
+      "last_check_block": 88771514
+    },
+    "0x8166314d41fe35a64cbb4fee800b7c42ba9e7bd3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88771743,
+      "last_seen": 1781862610.5585487,
+      "is_at_risk": false,
+      "last_check_block": 88771743
+    },
+    "0x90e8f5a5b723c4a35bd31b78d343e16675f0e56f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88771801,
+      "last_seen": 1781862699.0938442,
+      "is_at_risk": false,
+      "last_check_block": 88771801
+    },
+    "0xbe62c6d0936386d39621066b1a9ff3ed2e6a7a6d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88772249,
+      "last_seen": 1781863370.1467738,
+      "is_at_risk": false,
+      "last_check_block": 88772249
+    },
+    "0x3a5a536d707658b44b2003935427f6aa23b79ef2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88772346,
+      "last_seen": 1781863529.215876,
+      "is_at_risk": false,
+      "last_check_block": 88772346
+    },
+    "0x75f8445a5ffe66525dac0bdfa985de8a82acf9c4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88772641,
+      "last_seen": 1781863958.204295,
+      "is_at_risk": false,
+      "last_check_block": 88772641
+    },
+    "0x3d040cd198525f9cabf9a3852f49d34abdf4b915": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.091518532203327
+      },
+      "last_block": 89514483,
+      "last_seen": 1781864231.142294,
+      "is_at_risk": false,
+      "last_check_block": 88772823
+    },
+    "0xce6d09baa855f686bf3311f1be7878c5ddcfd1a2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.864270248987261
+      },
+      "last_block": 89514483,
+      "last_seen": 1781864648.1057966,
+      "is_at_risk": false,
+      "last_check_block": 88773101
+    },
+    "0x7f8a58e00f92721e953a5a4bf54bf9ff27007c72": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88773231,
+      "last_seen": 1781864843.060935,
+      "is_at_risk": false,
+      "last_check_block": 88773231
+    },
+    "0xada8bb44f49fa41adcba8a19346dd7d3e0a5e765": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88774120,
+      "last_seen": 1781866176.5488276,
+      "is_at_risk": false,
+      "last_check_block": 88774120
+    },
+    "0xdefd5ea7ffe2cb7395f974ff9eb3c6d2246286ca": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2398585408370248
+      },
+      "last_block": 89514483,
+      "last_seen": 1781866855.0849764,
+      "is_at_risk": false,
+      "last_check_block": 88774566
+    },
+    "0x887f651506f725acefb46a0ea1ce12fe0b96954a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 88774713,
+      "last_seen": 1781867065.5349762,
+      "is_at_risk": false,
+      "last_check_block": 88774713
+    },
+    "0x8f818d67a3afbb8039f49228bdf403cc5da5c48e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1104040817607086
+      },
+      "last_block": 89514483,
+      "last_seen": 1781868660.7300599,
+      "is_at_risk": false,
+      "last_check_block": 88775776
+    },
+    "0xd2a4a9728b931576532fd6f630c93b71d06bc084": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.739533227108694
+      },
+      "last_block": 89514483,
+      "last_seen": 1781868624.9072661,
+      "is_at_risk": false,
+      "last_check_block": 88775752
+    },
+    "0x75ba1cc9ffe8b19a1079161b3c405a4cbd27b79a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89586816,
+      "last_seen": 1783085220.4170265,
+      "is_at_risk": false,
+      "last_check_block": 89586816
+    },
+    "0xcd41179902acafd32b5be0d900a4f47f86725737": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7665757829142579
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895347.0641272,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x52946aeb380c479d0437f44de92b35a3b579c4c6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.160720486261391
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905374,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x819f066cd744d45737b14336fdb8861afd82d0b4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.746477315145957
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619545,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x15333243d69ce2457ba0377a9ba993a2fd326f82": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.464463868985216
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.098967,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7311da757e240068e8e1b0bca9a39966795f4c43": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.4547717430658396
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.61918,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x847fea04de2ded1881eb8c2e6a0cf30e314ec8c5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975267.361992,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2cbb0dc72dc0676650eab0f421e9b50086a7ba52": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1680256055378293
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619506,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2406a255a5047efc40d9b78ee95a37e24ca505d1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7145241047550979
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.0990088,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xba710be407751fd2c4c8ed7e95c452d11c2e4a85": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3326974627938826
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905024,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1e53941c38bd304b88cf901c19bebaafc7b33c84": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5122227013343852
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.2029,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7458055ae05a4349e8de055712862343bb0286cc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4118716162520848
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895349.2029045,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdaa27d84ea816f28f4c420f7b0ad6a9998b7e305": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.353030775401111
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895351.2559233,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc301b61d828024930a4fdfba112dd85318c298bf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1559719668970465
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895351.368846,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3c55ddfc6f486516046c7ac49ad5f8112536d7cf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1442675116649992
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185718,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbbc053ef5a02294601f9ab498d6fd5945effd303": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.796643507531309
+      },
+      "last_block": 89586034,
+      "last_seen": 1783084046.9680917,
+      "is_at_risk": false,
+      "last_check_block": 89586034
+    },
+    "0x1a189f979752d1c32bf881a724677ed124764181": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1579818197530916
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.705626,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc551244ff68293def48721e24fd07e9b716a38ab": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.120878313551701
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3868651,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x052a64ba2dec8c67624be51402d41a9efa7fd2f6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6309978994068586
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.5424201,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x65d1f288f5fe5f160e88bd68a08d03c4b4d86fde": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5078401681284341
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872218,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe34515a9c435fe82f95756b8c7be88f23da0037e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3250940128773887
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872263,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd20540e4189c17f66e4fc0ba05d2501cf04976dd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4923861318300569
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872302,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd35e922bcc09b2218ada7122de347cc2a200c7a0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.214260186302272
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872468,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x01771a278c3fab69735aaeb38872469489e7716d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.499888145440376
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872507,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4e62c6c224d372966a771368e54c35f998956dac": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4932853459409565
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746487,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0eeaf12dd84f88fdba91d08951be772dad14c66e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.661818126228692
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387257,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xae854d416379c8a49174248ab9925035f65719fd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.521391948884765
+      },
+      "last_block": 89588709,
+      "last_seen": 1783088060.1322823,
+      "is_at_risk": false,
+      "last_check_block": 89588709
+    },
+    "0xc1af0115d9b5834b8ef2ddd4c257c608954e5ef2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.26519754174196
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387264,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x215ab57083c59a42b5755892a41a484790a05b71": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.710069909242649
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502145,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xabb894d2f2b049d43064cb1315fe615cf735d3c0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2391151265807088
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191952,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd8248029b8a31c002789ce6632a1a9857080de5c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7379795109696006
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.328758,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8b2efe8ca8e76f5cb75a5ba7a2ad99107046b38a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0463722638108797
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872926,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xec8295a53636e568b9eabeaac7e9e2c61fe27944": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3082140845694419
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872967,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5aa92990dab6e2d9348d7eaa2d74f60545bbec04": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.9326239324504613
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3872998,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf13fd4951485f54462de0fb534851d9687d1adea": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.778523080338662
+      },
+      "last_block": 89586269,
+      "last_seen": 1783084400.1345243,
+      "is_at_risk": false,
+      "last_check_block": 89586269
+    },
+    "0x7a6e41ea4edced41207660e6c0f16345cdd6150a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 222.42119338908006
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387312,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb5999125353dd94a5be96b3b23b32d0abc19f9f7": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.290714845521715
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873186,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7569c427c5ea52162d9814f93c72d7ab2b58d5f5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2638220253334147
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387323,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x85de03d263c114241fd55139a1db881028c9665f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4532805814432928
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873262,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8803574ba978ab4a19997f75d4377d4cd142b8fb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2813962377852455
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.3288815,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x727e99b9073f8850077d767aaa87034a785a3a9c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.279489660085945
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873336,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xaf203256cbdf694b5677005b8ca388578dc3723d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.175401810779167
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387337,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xadeccaba96f86f2eb4fbe219be39a87db7534ddb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 8.284422144786081
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873405,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa3cacf4ef69f81ba3fc01df994f5848ae7ebd0fe": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1123298760664504
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.387344,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x30efa631e32ddbd5c80427e4241507ab3ee3f2a3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.154881781917021
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873472,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9cda0e64adffc215e9091a7b1839a10160304775": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.675677734193631
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895353.3873506,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf499f512b35e4f1fb754cc512aae2fd38e59f49e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2737125298428107
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.618585,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x26b10af56dc010aace94f4858922286f061cf2d9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0060539415587098
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904609,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x243705d57b6d60ca4d976d8472f5601f1cb17a3e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.044995547866099
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619637,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0bc9f87e73cf46e5e1f2c2dabef5d82523754318": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1179603697809117
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619697,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x229be1397679dd2f1025f74e5bc059fc20e2ea4d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3547683809823734
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.361976,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xee7595c30f1e27b0a55c5804e9424275027996a6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3804263903446703
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.361978,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5986b3f5b4540c80843857e0d3a22fca617d7d51": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3830806937759237
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619802,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x337479631be8bea6ad1341569544091086082cad": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5494978436459426
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619885,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa038a7c2b5647f96cc6ebef7be38e9cc03b6fbc9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5633753688093899
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.3619938,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x5c3e677ef3513ca3410d4262eb837d0b16964796": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1602040624649268
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615653,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x373826681662a31e61140deb8edbe733735f8fb3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.578012276623017
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.461567,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb411d7b535e67aeef4ff9efe4829c965b6a018a6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.028389904742815
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.461571,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4429b9cb8f6903da42de66e07f5cb23c568782dc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975267.4615724,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x07d5ed2d6bba21b80666edecc5d3051497f00a31": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3132191707766747
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615731,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4684073ce2047c3f4859bda8aa54d216b89ea1f0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0014297999778776
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615743,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x75779e2c9e634fe7fce9dcf9c01f9ef9453f8247": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7182329953466442
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615755,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3769fa15b71fac77675087bfb69ffd372e2668de": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1131256961141447
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185944,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1aec90740706f28613fa50be9f1161c60bca7187": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.4000537655015233
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615803,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x6cede3a4d1c5bfffa0376203efd713ce066cd307": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2254196971251639
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615817,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc502214795efff22811783d89a96228b5b6f33a0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.574486064813586
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905086,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe323856e268fc12934e162ff38901dead5412cbe": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.185559102253525
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975267.4615867,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xcae89554880a222875f2d75e28f455973297978a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0314502195713457
+      },
+      "last_block": 89590119,
+      "last_seen": 1782975269.444299,
+      "is_at_risk": true,
+      "last_check_block": 89590119
+    },
+    "0x733e72fc597f42c39a6842eedd661b61bb96ce1a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.074822853368857
+      },
+      "last_block": 89590113,
+      "last_seen": 1783081288.3283792,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0xaa618be2832c984fca2cb6e67f0a7d919f241694": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.356720929955653
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.542442,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdc73e1d5f2ac8233d128ff7cee0a43a6863145cd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6250517191393492
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.542445,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf0e43c06e2e035d5c326272057602dd23229cd25": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1221482249061507
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.5424478,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa51bc6a5b322e659713ff6d24e2db862ecd04771": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1171604977547347
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975269.5424547,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x73e828001a551eb1eba675bd8e1f28f67b2cffcf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.215404553117268
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6089885,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa2c4aa9c24a4ca404d6684566c3f60aaf303a15d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6636539048225374
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.608991,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x103f7da7f372b815b0bd6341a4a0b75449b75479": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.7019238794914058
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6089938,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0bbad437c1a31562fbd3a598380db12a770fabbd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4052517044645558
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6089985,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb64e004bdb5c65ba5ce648a235840e69f1a4ec96": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.122425725059082
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090066,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x9d0755b33cf81697e62af1829af25e4c0720a021": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1155965716840441
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090083,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x429b5a4ee12bfb7092c700914dd8ba3fbcc41616": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1497030521879241
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090112,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1bffc1bdbf55fff2c92cb938be8cb4c8c8eec4cd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3464485447912204
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746348,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x931ac69f6c5293235e427e534c4dba6852df7adb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.10848481506678
+      },
+      "last_block": 89589775,
+      "last_seen": 1783089659.2589586,
+      "is_at_risk": false,
+      "last_check_block": 89589775
+    },
+    "0xb2a48bdc1dc6ba36fbcc92178cf771dea917aeeb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2373639913688947
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090274,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3bb5c94cb626f7fc1cd40484ea65ca814659042a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.80973869560671
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609029,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc7f14005ce1d49854c225e0e601f9d9cd2e08df3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9460252525800958
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090307,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8faf166a6f7dba127a7c36210ab4d7d4b22d22b2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1904026604045752
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609038,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7ac4689cb06e8b0c2e4a060b92b62ce9dc97e06b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.0689522815386394
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090398,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9c490979c80eda7f9241510de9fe335d40755d0b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1719629564662999
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090417,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4ccff0685810323ca6347bb016215d94e16dcee9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4343339110361326
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090431,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3a80dcd77282f510cf1ce30ed094c0544904b357": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1665171599030875
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090448,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x57ca40914becc1c9143597744b830ee1c5a1c7c6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.281632872150542
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090462,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1909a21d5e5c158c520946e54bbc62ea1a8ff1e6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.251097408874715
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609053,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x594e9b7a33f97db90f6f0eb5f131e0860d068f3c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 4.244185853536979
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.609057,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2b248c4477016b4c9cabcd097bc5d7e44177dace": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3944847747873284
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895359.7729745,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x46c90fccef0f35a87c5995bd830920c836cffb7f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895359.7729778,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9a3050e1c2cba018ef75ba74e282993d69fe99d0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 13.796981465136806
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895359.7729795,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfef7c5ff9ed851f957abda200934a0f40c02b94f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1516021475980815
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895359.7729816,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdcf3f7b46e303d64b214aff39799d719c392ac18": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1628993233361615
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895359.7729867,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x158349596a9f60bf285ef23318e81ab0f8d4ef60": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1142604336946635
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895361.7929754,
+      "is_at_risk": false,
+      "last_check_block": 89496764
+    },
+    "0x26af7f477bc920d2a44923adc30ca160d2ad0cbd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895361.79411,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb7180439c034aa2e1f89546d91b667add1512aee": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.64613263886383
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895361.7941127,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x421cc2fa2b3d331b36bb2d15388b656d095eb613": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.129919278231498
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502343,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8de6184bc8e137dc05fe8aedb2bbf2785099451a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.1371762006404205
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895361.7941225,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe41adf470b8e057e652b7230c09d72697993b4d3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3055053361838223
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905057,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb1403908f772e4374bb151f7c67e88761a0eb4f1": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.671427,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x438e1bd6a2072eeafac961dd7c2d6a22116d133a": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895361.7941325,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x052f01c2ea10af00892a34a466171408980f7cb6": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895361.7941337,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2757fccd04344008bcc113b72de32b48300e165e": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.705746,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbcb1da639c56200aa4125a285ebc1dc60bdef56b": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895361.7941365,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1801c32e5fa1f52fb6f387c4c9fb2f03488024b5": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.7057512,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4d35c6f6469d7178c5e3b0626ba3e3c09023b2a5": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460091,
+      "last_seen": 1782895361.7941716,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8d1f338f8abd714fd09ec13c100a0d7df693cd5d": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.7057526,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9f84d050fb4df076a7d59ba5e5e3d973baa9de28": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.7057555,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbf2bb64790f02b38114c046e17b475165d1a8009": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460245,
+      "last_seen": 1782895364.1635573,
+      "is_at_risk": false,
+      "last_check_block": 89460245
+    },
+    "0xc6a321a931bbb98a62217d737800f92362c7596c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4140831542069259
+      },
+      "last_block": 89514483,
+      "last_seen": 1782895530.6422071,
+      "is_at_risk": false,
+      "last_check_block": 89460356
+    },
+    "0x09cf61a6fbfabf4095b2fa1f6b50da94a576867a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89460576,
+      "last_seen": 1782895860.8688128,
+      "is_at_risk": false,
+      "last_check_block": 89460576
+    },
+    "0xb614a0a53d16e093b07da6000d29daf256fb9fcd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89465426,
+      "last_seen": 1782903135.7014248,
+      "is_at_risk": false,
+      "last_check_block": 89465426
+    },
+    "0xbc741ef775b91a210d5b0ed72c6d262bb35b4c7d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89465564,
+      "last_seen": 1782903342.44827,
+      "is_at_risk": false,
+      "last_check_block": 89465564
+    },
+    "0x08b638553c9fb52a64a6ba50b71562961c3f1db3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89465680,
+      "last_seen": 1782903516.543078,
+      "is_at_risk": false,
+      "last_check_block": 89465680
+    },
+    "0x0a9ba788735a526b8949b76e70f0036a3c52e0f5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1950528812385155
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090662,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3aa4883e556b006b9b4cb01932323c9bd2f8c6c4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.652756679539701
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090684,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1523b5aeee61cec7518cced8e4bf173fdefa0f59": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3049838482133804
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090748,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7b0e28aa6e3a7af10a7421ebfcd44089f1006b6b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1305946754856686
+      },
+      "last_block": 89584205,
+      "last_seen": 1782975271.60908,
+      "is_at_risk": false,
+      "last_check_block": 89584205
+    },
+    "0x7840caa217f4468404028186a2dc1bea09c0f118": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1122677213221737
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6714191,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x37b1f972423cec6a4629a09957e40b04aa5e32de": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1940846358004449
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904344,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7e5a61a98500b4694f0a09d191c8d655473b387d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1505635930682476
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746434,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfe23da25387127c0324bdaa713105a3f190f7ddb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.2270177704725334
+      },
+      "last_block": 89586758,
+      "last_seen": 1783085133.2037885,
+      "is_at_risk": false,
+      "last_check_block": 89586758
+    },
+    "0x27823e16c50f0afb593253e8608ed2594b5f36ba": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9940727849905038
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.6090982,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2e65d74cef1d2c84f6d07c526da992e198c4b7ef": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2763400996813794
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7054398,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf4b245ebeaed191ab87feb23e31fd9fa41299bb3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4250238667261308
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7056382,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2ca93e7ad749cce50973c355ce4f3b7ea7f8e28c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1621107699457265
+      },
+      "last_block": 89514483,
+      "last_seen": 1782975271.7056777,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9ff8f28908d954914fc7f58d99c9120620d91ea0": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3889913210338094
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746382,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x9d64a82f48045da055498f9223644ecf1626b32f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1790694434641087
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746406,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3abf1d0dab51773dd7f429f11bc37d0cb55552b6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9658795373420697
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274654,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1afac010d80272d06e2d603d4ae666dc4b81818a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 7.671476235995223
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746584,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfcbdffd078106a78f899be33e37fca5229b4cf19": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7510498794412708
+      },
+      "last_block": 89587764,
+      "last_seen": 1783086642.6382403,
+      "is_at_risk": false,
+      "last_check_block": 89587764
+    },
+    "0xe8b264bb986b4df0023753e359a5ba9e3679c333": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.312247643708947
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274665,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x48df664124a83cad376d7dc9c41c6ff25f57007f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.335822451423415
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.3287659,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdcbe44d72d64a86a1da0c0dc1c877581b60b4bfa": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.3058948789760523
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081288.3287678,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x67f254de8144323e06e878f3c6ff3d502d4fcceb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081288.3288856,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xdf71faafd7c5edcefbda0e932807a4dc6c2100b4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.096312604225072
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3501897,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x06e05e42380a379306c8c5ceeea79933c83dc5d9": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2423804728108556
+      },
+      "last_block": 89586569,
+      "last_seen": 1783084849.7813277,
+      "is_at_risk": false,
+      "last_check_block": 89586569
+    },
+    "0xc7ab2c93cceb2b52ccd3fcf5fb3c7426d6c317fe": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7798090741244021
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502111,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x60724ab5201012c40e3bdee22961d71101864525": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2782818789911856
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.350218,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x05f3c3840160ed96722d2ae790ccf369d357363e": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.7057571,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc7e8c95ceda7627c90d7d39f4c3f868403b0683a": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89513309,
+      "last_seen": 1782975271.7058263,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x6aabe7861ffbcfbe8c6d925971de2c69a381136d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081284.164994,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x08e80042b919d9036997d1768a7cce222523995a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6212129424404753
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081284.1650076,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x730619a7b9b673cf94585a54ea7bb860f452ab37": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0731479529714212
+      },
+      "last_block": 89590114,
+      "last_seen": 1783081286.2742915,
+      "is_at_risk": true,
+      "last_check_block": 89590114
+    },
+    "0xfc10529c54db9a1cd2090d61e729af80e396489e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1207710126945354
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.274609,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xad08ebf10b74ba7e0c1446c291830f4b897dde3a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6436538019800766
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746289,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf1af138f95b89c5f594e11557eda4654f1434807": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081286.2746327,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x342e0872b83e66a29942d2a846f1c1e9e22bdacf": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4878111028356977
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081290.3502493,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7dab14dab52f07e11613b127b5e3549acce4d340": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1481807273597602
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.490451,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xfb88e3a49d9d4517d6dcee3fad01df30a32d7f6a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.27269253638853
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904547,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x0780ed3329584c68185ae45af2540b6a955a07cd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.165415249969753
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904635,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7f78fa6e91d6b263c1be5ee9ff47cba373b72622": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2246240717015755
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904659,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x4efade6aeaf555ee14979c5ef12943bd22f6526d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.744836296856016
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.490468,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x490706b20005530e2156e49668dfde455462f362": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2626354399274458
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904764,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x192def0e75e50736b2f8cfe640ebf11a984323ea": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2349761854989671
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.490484,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe9e5c0e61e201f452f530e9b36cde8de94395e49": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2249963719432841
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4904993,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc956ca6e8fa34a5e86b54c55b0da4aa9f3eeedce": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2422939871506082
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905112,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2051aa667b000b9375ee758f7a098cb26011cf8f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.358035697523547
+      },
+      "last_block": 89587219,
+      "last_seen": 1783085824.9902732,
+      "is_at_risk": false,
+      "last_check_block": 89587219
+    },
+    "0x1625664c337e26a33b40f96e620914fdae2b3d77": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2362716228014394
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905188,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x97d746fc67a35de640a0f7f81356d45884c9f25c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3026057489934812
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905217,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf68ac88d900961b7389f2ca3e3f3c149722bc0d1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2848887299365668
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.490524,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x1960251bbfddc4274a6ad1ef4fc3921b440f9fe4": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3287995029363064
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905272,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x8d1b01f0243ab352a5f292a2a0d183dc4d102e2c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.077162524148301
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905298,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2d7919c76b4efd51892b210581377cbed5e87a0d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.437916586678818
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081292.4905353,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x17d73c2d877db901ef13ad5023be5f2561d244ff": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0660751704482616
+      },
+      "last_block": 89590098,
+      "last_seen": 1783081294.6182625,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x7c9541ca0d286a54deff41f716b119f554155aba": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1609570490927927
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185787,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xa48df868cfb86a02b5a55b3f6d94e339e44e8194": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.4009808133619945
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185825,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x3d7b38fe010ada44634f0ed4abf0d43e8543f8a8": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.6277341893267487
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185918,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xbfe88d6abb61157e757b7c15345d9182c44da2f6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.3148706102515408
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185966,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xebb4d7c80f82d5c7e7fd9f4bae546c6d31f4a56a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2149097013895718
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6185985,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xb951d9d1e4dd4123c1776e929801fe953fd7eb61": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9925273965151136
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6186075,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xe5f5604278a9678ecb61518363e82b3e0dbbd99c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 5.363173294345734
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191418,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf9a8907748e68ceb4b3b01127e489d166002aa08": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5280160490627899
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191509,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2d7486f7259ef016c5329b26fcc370b7194fe394": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2975026947692747
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191547,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x01e25a6b9efac38259c8409c0c796682890f992b": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 15.9822
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191578,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc3d4a0c9220b834fc46340f92579a0321283f6c1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 216.86424444390585
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191607,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x37f7a441c96aa5489f3839f8239b780bb7bf187d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2599.3266
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191652,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf984681ce684d019ce543d9b2a1ba7c350ad2055": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.1477999376001153
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.619168,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2b310a22e21481605c37ff9c0b79b499c15fa00d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9408455676338623
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191726,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc1b2495949b01c3bf36424586d5dbb24acf52cbd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.315681387038673
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191747,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf05b9adc1de74befe3567dd4ce788315c514d94c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.485917063082158
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191778,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x706453ad55c3d56a42fafc0a745d188971704fb1": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2169217791163556
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191826,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x523f7cf44a403a235faccfef98abc270821498ff": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2311609597517201
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191847,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x58fe57b701938f0ad6b574383e51c7443536741e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1012105628607267
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.619191,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x66b4cad59af0ada4b830321537f10f735160713f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 2.9695473999783015
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081294.6191978,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x81545fbe953a26a208dc136ec70aa62670ef7018": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.38428007366439
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.671368,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x7dc48653251974c97991e8b3caf5c12aef0554a3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.727914653609772
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.671373,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x48a288c0e4ee378e521e0598213cd4d15db89fbd": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.5374279135759759
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.671375,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xf61d6742eea5e1f29cb4b96cf7108f32424d562c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.7438900847756258
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6713777,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2368ff090934c1dfae9c46274b265c6eb22143ef": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.889077174171457
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6713798,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x435460f850e56222776cae99986fb2f53422bdac": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1888105610457698
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6713817,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xc165c49493ee66eacb52f484c6671b0ab2cb61f6": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.2035448530935104
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6713839,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x2036398ed5b4f9070cd202d4afc2912ad97a4989": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.8432975998575165
+      },
+      "last_block": 89584124,
+      "last_seen": 1783081296.6713858,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xd8e6c20386895b8f367afe4d840b5170a286cf8d": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.671416,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xeb50f847d430a0b26be4ef66cf517b92631c8736": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.6714315,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xcc789933e9f9012ebfde6abe1af23c09d354d5d8": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.6714332,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0xcd9759db60667fe6c4abe8709b10537cb9599df9": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584124,
+      "last_seen": 1783081296.671435,
+      "is_at_risk": false,
+      "last_check_block": 0
+    },
+    "0x73a7984c3379aeedf004bc21bf2d614a2584b48f": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.9644551934232155
+      },
+      "last_block": 89584290,
+      "last_seen": 1783081431.649379,
+      "is_at_risk": false,
+      "last_check_block": 89584290
+    },
+    "0x6831a646656fe17f6201dac261e514189d0a4abb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584623,
+      "last_seen": 1783081930.6036587,
+      "is_at_risk": false,
+      "last_check_block": 89584623
+    },
+    "0x560535b792fb51d73b34945bcb3a528d44e17a91": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89584886,
+      "last_seen": 1783082325.5508146,
+      "is_at_risk": false,
+      "last_check_block": 89584886
+    },
+    "0x0f9f96bee5d6b8b6d11fc7a415d31a28e3f09a9e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 3.4493781286967247
+      },
+      "last_block": 89584828,
+      "last_seen": 1783082238.5732296,
+      "is_at_risk": false,
+      "last_check_block": 89584828
+    },
+    "0x3b55e2f2df6b5dd2ce5567d8f0d7f76c2af77203": {
+      "protocols": [
+        "MORPHO"
+      ],
+      "last_hf": {},
+      "last_block": 89584993,
+      "last_seen": 1783082486.1036286,
+      "is_at_risk": false,
+      "last_check_block": 89584993
+    },
+    "0x6299caaab4c5384ee0461aebab6eb866ef20d415": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89585292,
+      "last_seen": 1783082934.5155263,
+      "is_at_risk": false,
+      "last_check_block": 89585292
+    },
+    "0xa863fa19371c285af036b65ff09cc558297559dc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89585329,
+      "last_seen": 1783082990.1161993,
+      "is_at_risk": false,
+      "last_check_block": 89585329
+    },
+    "0x2791bca1f2de4661ed88a30c99a7a9449aa84174": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89585766,
+      "last_seen": 1783083645.84558,
+      "is_at_risk": false,
+      "last_check_block": 89585766
+    },
+    "0x16d840ad69264e7d0dbf6ceebde0002a301edef2": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.242762385306052
+      },
+      "last_block": 89585977,
+      "last_seen": 1783083961.9740355,
+      "is_at_risk": false,
+      "last_check_block": 89585977
+    },
+    "0xfb7d675e885e24e8738bacf6b5589127e15e6bc3": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89585993,
+      "last_seen": 1783083986.1564715,
+      "is_at_risk": false,
+      "last_check_block": 89585993
+    },
+    "0x1867a791f41b63f202199e659de77403bd8c836a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.1045106865825227
+      },
+      "last_block": 89586218,
+      "last_seen": 1783084323.7275457,
+      "is_at_risk": false,
+      "last_check_block": 89586218
+    },
+    "0x82143e6437d3d855322187165e91ebd01d99fa34": {
+      "protocols": [
+        "COMPOUND_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89586855,
+      "last_seen": 1783085279.0795302,
+      "is_at_risk": false,
+      "last_check_block": 89586855
+    },
+    "0x5dc299bd613c89509a9b7d42e73296a5fc739d5c": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89586899,
+      "last_seen": 1783085345.0989773,
+      "is_at_risk": false,
+      "last_check_block": 89586899
+    },
+    "0x70e4b1b803900e5fbb6eec3d13ce62eb8a96d182": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589598,
+      "last_seen": 1783089393.4156756,
+      "is_at_risk": false,
+      "last_check_block": 89589598
+    },
+    "0x4af8d2218b0ea99cc7b14ea7ea7936357312a972": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.0826998275339128
+      },
+      "last_block": 89590098,
+      "last_seen": 1783085763.9265108,
+      "is_at_risk": true,
+      "last_check_block": 89590113
+    },
+    "0x0a12f453a0f0827785e24a412867b36b6fd3c535": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89587350,
+      "last_seen": 1783086021.1599553,
+      "is_at_risk": false,
+      "last_check_block": 89587350
+    },
+    "0x87a1fdc4c726c459f597282be639a045062c0e46": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89587378,
+      "last_seen": 1783086063.1209977,
+      "is_at_risk": false,
+      "last_check_block": 89587378
+    },
+    "0x6fe8407354e02d5c2ec177ae2320c7b486a2eeea": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589197,
+      "last_seen": 1783088791.4462707,
+      "is_at_risk": false,
+      "last_check_block": 89589197
+    },
+    "0xc5bfe2a8966137f5719d90258879848eaffa66cc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89587917,
+      "last_seen": 1783086871.8433821,
+      "is_at_risk": false,
+      "last_check_block": 89587917
+    },
+    "0x1f1e8b2daee2ce4e01d59caf00b8bfce66349e3e": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589100,
+      "last_seen": 1783088646.2454038,
+      "is_at_risk": false,
+      "last_check_block": 89589100
+    },
+    "0x7d578f3623fef0a7c3f00decb4b89f7286154e4a": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {
+        "AAVE_V3": 1.215452605070729
+      },
+      "last_block": 89588458,
+      "last_seen": 1783087683.2018375,
+      "is_at_risk": false,
+      "last_check_block": 89588458
+    },
+    "0x190b46975a25f62b8840e007e9c45aba737127c5": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89588273,
+      "last_seen": 1783087405.8540063,
+      "is_at_risk": false,
+      "last_check_block": 89588273
+    },
+    "0xd7def15ccf7bdd1dd857ac17dee7701c281c7ffc": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89588570,
+      "last_seen": 1783087851.5773644,
+      "is_at_risk": false,
+      "last_check_block": 89588570
+    },
+    "0xb0dcace71c6bf8645555501abbd4dd4e34df0deb": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89588748,
+      "last_seen": 1783088118.098329,
+      "is_at_risk": false,
+      "last_check_block": 89588748
+    },
+    "0xb7ab695f490a3054b85bba34e07d35e346dfb770": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589247,
+      "last_seen": 1783088866.8730164,
+      "is_at_risk": false,
+      "last_check_block": 89589247
+    },
+    "0xd84c60bc081bdddb5e93c53ac495bf3df996a356": {
+      "protocols": [
+        "AAVE_V3"
+      ],
+      "last_hf": {},
+      "last_block": 89589804,
+      "last_seen": 1783089702.713915,
+      "is_at_risk": false,
+      "last_check_block": 89589804
+    }
+  },
+  "updated": 1783090412.376362
+}

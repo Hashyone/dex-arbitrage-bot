@@ -1,0 +1,19 @@
+[profile.default]
+src     = "src"
+test    = "test"
+out     = "out"
+libs    = ["lib"]
+verbosity = 2
+
+# To run fork tests:
+#   POLYGON_RPC_URL="https://polygon.api.onfinality.io/rpc?apikey=<KEY>" forge test --fork-url $POLYGON_RPC_URL -vvv
+# Or pass via env:
+#   export POLYGON_RPC_URL=$FINALITY_API_KEY
+#   forge test -vvv
+
+[rpc_endpoints]
+polygon = "${POLYGON_RPC_URL}"
+
+[fuzz]
+runs = 128
+seed = "0xdeadbeef"
